@@ -447,10 +447,74 @@
 	"build_varint": "",
 	"command_palette":
 	{
-		"height": 392.0,
-		"last_filter": "ins",
+		"height": 127.0,
+		"last_filter": "git push ",
 		"selected_items":
 		[
+			[
+				"git push ",
+				"Git: Push Current Branch"
+			],
+			[
+				"sublimegit ",
+				"SublimeLinter: Choose Gutter Theme"
+			],
+			[
+				"push",
+				"Git: Push"
+			],
+			[
+				"status",
+				"Git: Status"
+			],
+			[
+				"git stat",
+				"Git: Quick Status"
+			],
+			[
+				"git status",
+				"Git: Status"
+			],
+			[
+				"git push",
+				"Git: Push Current Branch"
+			],
+			[
+				"git add",
+				"Git: Quick Add"
+			],
+			[
+				"git comm",
+				"Git: Commit"
+			],
+			[
+				"gist",
+				"Git: Status"
+			],
+			[
+				"git ini",
+				"Git: Init"
+			],
+			[
+				"sublimgit li",
+				"SublimeGit: Add License"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
 			[
 				"ins",
 				"Package Control: Install Package"
@@ -458,10 +522,6 @@
 			[
 				"syn",
 				"Set Syntax: HTML"
-			],
-			[
-				"rem",
-				"Package Control: Remove Package"
 			],
 			[
 				"xdeb",
@@ -472,16 +532,8 @@
 				"Package Control: Install Package"
 			],
 			[
-				"insta",
-				"Package Control: Install Package"
-			],
-			[
 				"disa",
 				"Package Control: Disable Package"
-			],
-			[
-				"inst",
-				"Package Control: Install Package"
 			],
 			[
 				"dis",
@@ -522,10 +574,6 @@
 			[
 				"syn ja",
 				"Set Syntax: JavaScript"
-			],
-			[
-				"remo",
-				"Package Control: Remove Package"
 			],
 			[
 				"remove",
@@ -620,7 +668,7 @@
 				"Package Control: Install Package"
 			]
 		],
-		"width": 904.0
+		"width": 528.0
 	},
 	"console":
 	{
@@ -652,10 +700,21 @@
 	},
 	"expanded_folders":
 	[
-		"/D/xampp/htdocs/bookkeeper"
+		"/D/xampp/htdocs/bookkeeper",
+		"/D/xampp/htdocs/bookkeeper/src"
 	],
 	"file_history":
 	[
+		"/D/OS X Yosemite/VMware Unlocker/VMware Unlocker - Mac OS X Guest/VMware 7.1.x Series/README.txt",
+		"/D/xampp/htdocs/emag_hero/style.css",
+		"/D/xampp/htdocs/emag_hero/constants.php",
+		"/D/xampp/htdocs/emag_hero/index.php",
+		"/D/xampp/htdocs/emag_hero/functions.php",
+		"/D/xampp/htdocs/emag_hero/classes.php",
+		"/C/Users/User1/AppData/Roaming/Sublime Text 3/Packages/SublimeGit/SublimeGit.sublime-settings",
+		"/D/xampp/htdocs/bookkeeper/src/AppBundle/Controller/DefaultController.php",
+		"/C/Users/User1/AppData/Roaming/Sublime Text 3/Packages/Git/Git.sublime-settings",
+		"/D/xampp/htdocs/bookkeeper/.gitignore"
 	],
 	"find":
 	{
@@ -679,6 +738,11 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"[",
+			"];",
+			"],",
+			"=> [",
+			"ssh",
 			"private",
 			"gameOver",
 			"NONE",
@@ -801,12 +865,7 @@
 			"console.log",
 			"stoptimer",
 			"settime",
-			"cannot inter",
-			"date",
-			"button",
-			"getcookies",
-			"iter",
-			"enumera"
+			"cannot inter"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -906,6 +965,14 @@
 	"output.find_results":
 	{
 		"height": 0.0
+	},
+	"output.git":
+	{
+		"height": 80.0
+	},
+	"output.git-push":
+	{
+		"height": 100.0
 	},
 	"output.xdebug":
 	{
