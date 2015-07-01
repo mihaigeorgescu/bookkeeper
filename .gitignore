@@ -10,3 +10,4 @@
 /vendor/
 /web/bundles/
 *.sublime-project
+*.sublime-workspace
