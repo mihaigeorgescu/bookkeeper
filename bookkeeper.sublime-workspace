@@ -1,0 +1,1551 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"link",
+				"links	link - stylesheet"
+			],
+			[
+				"ea",
+				"$earlyWin〔variable〕"
+			],
+			[
+				"dama",
+				"damageFormula〔function〕"
+			],
+			[
+				"functio",
+				"function_exists"
+			],
+			[
+				"doc",
+				"document〔variable〕"
+			],
+			[
+				"soc",
+				"socket_accept"
+			],
+			[
+				"pdf",
+				"pdfExportPath"
+			],
+			[
+				"user_meta",
+				"user_metadata_field"
+			],
+			[
+				"serial",
+				"serializeArray  (function)"
+			],
+			[
+				"label",
+				"label	<label> with <input>"
+			],
+			[
+				"input",
+				"input	input - text"
+			],
+			[
+				"bol",
+				"bolder"
+			],
+			[
+				"class",
+				"className"
+			],
+			[
+				"html",
+				"htmlInput"
+			],
+			[
+				"seria",
+				"serializeTable"
+			],
+			[
+				"ser",
+				"serializeTable"
+			],
+			[
+				"eac",
+				"each	.each()"
+			],
+			[
+				"serialize",
+				"serializeTable"
+			],
+			[
+				"clear",
+				"clearInterval"
+			],
+			[
+				"cons",
+				"console"
+			],
+			[
+				"all",
+				"allClasses"
+			],
+			[
+				"get",
+				"getTimings"
+			],
+			[
+				"before",
+				"beforeCounter"
+			],
+			[
+				"promise",
+				"promiseWhile"
+			],
+			[
+				"conso",
+				"conslog"
+			],
+			[
+				"innerh",
+				"innerHTML"
+			],
+			[
+				"generate",
+				"generateCode"
+			],
+			[
+				"str",
+				"strClasses"
+			],
+			[
+				"emai",
+				"email_hash"
+			],
+			[
+				"max-",
+				"max-width"
+			],
+			[
+				"pa",
+				"padding-right"
+			],
+			[
+				"order",
+				"order_by"
+			],
+			[
+				"fade",
+				"fadeOut  (function)"
+			],
+			[
+				"path",
+				"pathinfo()	standard Function"
+			],
+			[
+				"scroll",
+				"scrollTop	.scrollTop()"
+			],
+			[
+				"var_dum",
+				"var_dump"
+			],
+			[
+				"seriali",
+				"serializeArray	.serializeArray()"
+			],
+			[
+				"backg",
+				"background-color"
+			],
+			[
+				"min-",
+				"min-height"
+			],
+			[
+				"ca",
+				"clean_cart  (function)"
+			],
+			[
+				"deg",
+				"degradation"
+			],
+			[
+				"var_dump",
+				"var_dump()	standard Function"
+			],
+			[
+				"admin_hand",
+				"admin_handle_add  (function)"
+			],
+			[
+				"construct",
+				"__construct()	Magic Method"
+			],
+			[
+				"mbe",
+				"mbe_Model  (class)"
+			],
+			[
+				"condo_",
+				"condo_photo"
+			],
+			[
+				"uplo",
+				"upload_field_file  (function)"
+			],
+			[
+				"floor",
+				"floor_available"
+			],
+			[
+				"micro",
+				"microtime()	standard Function"
+			],
+			[
+				"hal",
+				"half_1"
+			],
+			[
+				"str_pad",
+				"str_pad()	standard Function"
+			],
+			[
+				"from",
+				"from_new_order"
+			],
+			[
+				"reser",
+				"reservation_lines"
+			],
+			[
+				"explode",
+				"explode()	standard Function"
+			],
+			[
+				"remove",
+				"removeAttr	.removeAttr()"
+			],
+			[
+				"hi",
+				"highlightArea"
+			],
+			[
+				"endfo",
+				"endforeach	Language Construct"
+			],
+			[
+				"ge",
+				"getDateSpans"
+			],
+			[
+				"g",
+				"getDateSpans"
+			],
+			[
+				"in_array",
+				"in_array()"
+			],
+			[
+				"form",
+				"formContainerClass"
+			],
+			[
+				"strto",
+				"strtoupper"
+			],
+			[
+				"blaxy_",
+				"blaxy_reservation_lines"
+			],
+			[
+				"array_uni",
+				"array_unique()"
+			],
+			[
+				"w",
+				"width"
+			],
+			[
+				"rese",
+				"reservation_lines  (function)"
+			],
+			[
+				"app_",
+				"app_Model  (class)"
+			],
+			[
+				"var_d",
+				"var_dump"
+			],
+			[
+				"var",
+				"var_dump()"
+			],
+			[
+				"date",
+				"DateTime  (class)"
+			],
+			[
+				"Da",
+				"DateTime()"
+			],
+			[
+				"repla",
+				"replace-chosen"
+			],
+			[
+				"admin",
+				"admin_blaxy"
+			],
+			[
+				"xde",
+				"xdebug_call_function()"
+			],
+			[
+				"output",
+				"output_json	CI - output Json"
+			],
+			[
+				"array_sl",
+				"array_slice()"
+			],
+			[
+				"PHP_ROUND",
+				"PHP_ROUND_HALF_UP"
+			],
+			[
+				"im",
+				"important"
+			],
+			[
+				"value",
+				"value"
+			],
+			[
+				"var_du",
+				"var_dump()"
+			],
+			[
+				"outpu",
+				"output_json	CI - output Json"
+			],
+			[
+				"outp",
+				"output_json	CI - output Json"
+			],
+			[
+				"out",
+				"output_json	CI - output Json"
+			],
+			[
+				"seri",
+				"serializeArray	.serializeArray()"
+			],
+			[
+				"has",
+				"hasClass	.hasClass"
+			],
+			[
+				"each",
+				"each  (function)"
+			],
+			[
+				"library",
+				"librarySlider"
+			],
+			[
+				"librar",
+				"librarySlider"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"q",
+				"qString  (variable)"
+			],
+			[
+				"inline-",
+				"inline-block"
+			],
+			[
+				"c",
+				"check_unique  (function)"
+			],
+			[
+				"sub",
+				"substr"
+			],
+			[
+				"reques",
+				"requested_url"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"fo",
+				"font-weight"
+			],
+			[
+				"table",
+				"table-cell"
+			],
+			[
+				"mi",
+				"middle"
+			],
+			[
+				"background-",
+				"background-color"
+			],
+			[
+				"strpos",
+				"strpos()"
+			],
+			[
+				"strp",
+				"strpos"
+			],
+			[
+				"url",
+				"urlencode"
+			],
+			[
+				"_win",
+				"_window_h"
+			],
+			[
+				"add",
+				"addslashes"
+			],
+			[
+				"error",
+				"errorThrown"
+			],
+			[
+				"ob_s",
+				"ob_flush"
+			],
+			[
+				"cate",
+				"category_id"
+			],
+			[
+				"inlin",
+				"inline-block"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "ins",
+		"selected_items":
+		[
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"syn",
+				"Set Syntax: HTML"
+			],
+			[
+				"rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"xdeb",
+				"Xdebug: Stop Debugging"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"disa",
+				"Package Control: Disable Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"dis",
+				"Package Control: Disable Package"
+			],
+			[
+				"pack",
+				"Package Control: Disable Package"
+			],
+			[
+				"line",
+				"Line Ending: Unix"
+			],
+			[
+				"enable",
+				"Package Control: Enable Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Remove Package"
+			],
+			[
+				"disab",
+				"Package Control: Disable Package"
+			],
+			[
+				"Package Control: remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"syntax ht",
+				"Set Syntax: HTML5"
+			],
+			[
+				"synt ht",
+				"Set Syntax: HTML (Tcl)"
+			],
+			[
+				"syn ja",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"syntax mus",
+				"Set Syntax: HTML with mustaches"
+			],
+			[
+				"syntax htm",
+				"Set Syntax: HTML5"
+			],
+			[
+				"INSTA",
+				"Package Control: Install Package"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"remove p",
+				"Package Control: Remove Package"
+			],
+			[
+				"remove pa",
+				"Package Control: Remove Package"
+			],
+			[
+				"lint",
+				"SublimeLinter: Lint This View"
+			],
+			[
+				"Package Control: insta",
+				"Package Control: Install Package"
+			],
+			[
+				"syntax js",
+				"Set Syntax: JSON"
+			],
+			[
+				"ra",
+				"Raw Line Edit: Toggle"
+			],
+			[
+				"raw",
+				"Raw Line Edit: Toggle"
+			],
+			[
+				"synta",
+				"Set Syntax: SQL"
+			],
+			[
+				"goto",
+				"Goto Documentation"
+			],
+			[
+				"packa",
+				"Package Control: List Packages"
+			],
+			[
+				"hexv",
+				"Preferences: Hex Viewer Key Bindings – Default"
+			],
+			[
+				"hex",
+				"Hex Viewer: Toggle Hex View"
+			],
+			[
+				"sy",
+				"Set Syntax: SQL"
+			],
+			[
+				"",
+				"SublimeLinter: Choose Lint Mode"
+			],
+			[
+				"pref",
+				"Preferences: SublimeLinter Settings – User"
+			],
+			[
+				"Package Control: rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: i",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 904.0
+	},
+	"console":
+	{
+		"height": 427.0,
+		"history":
+		[
+			"View.options().get(\"default_line_endings\");",
+			"view.options().get(\"default_line_endings\");",
+			"view.options.get(\"default_line_endings\");",
+			"prefs",
+			"cd where linter",
+			"cd",
+			"dir",
+			"\"cd\"",
+			"cd",
+			"where linter;",
+			"where linter",
+			"cd"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/D/xampp/htdocs/bookkeeper"
+	],
+	"file_history":
+	[
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+			"D:\\xampp\\htdocs\\ment-tv-backend",
+			"D:\\xampp\\htdocs\\blaxy",
+			"D:\\xampp\\htdocs\\blaxy\\_system\\_default\\helpers",
+			"D:\\xampp\\htdocs\\blaxy",
+			"D:\\xampp\\htdocs\\monden",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"private",
+			"gameOver",
+			"NONE",
+			"colspan=\"6\"",
+			"rf",
+			"true",
+			"public",
+			"===",
+			"h2",
+			"th>",
+			"th",
+			"opponent",
+			"counter-attacks",
+			"echo propRow",
+			"attacks first.",
+			"</td><td>'.$orderus->strength.'</td><td>'.$orderus->defence.'</td><td>'.$orderus->speed.'</td><td>'.$orderus->luck.'</td></tr>';\n	echo '<tr><td>Beast</td><td>'.$beast->health.'</td",
+			"orderus",
+			"$result['round_'.$turn]['orderus'] = ",
+			"$result['round_'.$turn]['beast'] = ",
+			"<tr><td colspan=\"6\">",
+			"counter-attacks first",
+			"attacks...",
+			"sppedB",
+			"sppedO",
+			"td",
+			"orderus",
+			".$i",
+			"public",
+			"error",
+			"private",
+			" >",
+			";",
+			"java",
+			"buffering",
+			"buffer",
+			"zend",
+			"welcome.php",
+			" = ",
+			"|",
+			"datepicker",
+			"serializeTable",
+			"APPPATH.'../uploads/top_charts/'.$fileName.'.pdf'",
+			"options",
+			"chosen",
+			"multiple",
+			"dump",
+			"multi",
+			"name', ",
+			"endin",
+			"var ",
+			"!!",
+			"!!!",
+			"time",
+			"gridArgument",
+			"bblu",
+			"edit",
+			"div",
+			"]);\n",
+			"cons",
+			"alert",
+			"trigger",
+			"select",
+			"values",
+			"select",
+			"margin-bottom:-13px;",
+			"ipv",
+			"serializeTable",
+			" = ",
+			"$m",
+			"columns",
+			"update-template",
+			"jsondata",
+			"window.location",
+			"serializeTable",
+			"strong",
+			"remove",
+			"icon-box-remove",
+			"dele",
+			"tds",
+			"chan",
+			"chane",
+			"theDoc",
+			"theWin",
+			"50",
+			"reAlignArrows",
+			"timer150",
+			"cntr150",
+			"chat",
+			"custom-le",
+			"value",
+			"stop",
+			"circ",
+			"fin",
+			"destro",
+			"console.log",
+			"console",
+			"duration",
+			"yrsCounter",
+			"logSeconds",
+			"reAlignArrows",
+			"icon",
+			"revolution.slide.slideatend",
+			"#custom-header-container",
+			"demos-hdr-image",
+			"#demos-hdr-image",
+			"result",
+			"getTimings",
+			"$",
+			"slideElement",
+			"arrowsAtAnimationDone",
+			"opt.cdint",
+			"cdint",
+			".slide.slideatend",
+			"updateLayerFromFields",
+			"calcCaptionResponsive",
+			"animateTheCaptions",
+			"timer",
+			"nextsh",
+			"animat",
+			"console.log",
+			"stoptimer",
+			"settime",
+			"cannot inter",
+			"date",
+			"button",
+			"getcookies",
+			"iter",
+			"enumera"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"---",
+			"jQuery",
+			"\"",
+			"\"hidden\"",
+			"press-me btn get-the-sms-bottom",
+			"			<div class=\"press-me get-the-sms-bottom\">\n				<a class=\"btn\" href=\"<?php echo site_url('customers/complete_order'); ?>\"><?php e_e('Send the order'); ?></a>\n			</div>			<div class=\"press-me get-the-sms-bottom\">\n				<a class=\"btn\"><?php e_e('Cumpara online'); ?></a>\n			</div>",
+			"'name' => _e('Database'),",
+			"('Databases",
+			"public ",
+			"missing cart data",
+			"",
+			"#",
+			"$week_no",
+			"$('.home .overlay')",
+			"'.home .overlay'",
+			"'.profile .overlay'",
+			" ",
+			"",
+			"			<p class=\"radio\">\n				<label for=\"radio-one\"><input id=\"radio-one\" name=\"radio-opt\" type=\"radio\">Radio Buttons</label>\n				<label for=\"radio-two\"><input id=\"radio-two\" name=\"radio-opt\" type=\"radio\">Radio Buttons</label>\n				<label for=\"radio-three\"><input id=\"radio-three\" name=\"radio-opt\" type=\"radio\">Radio Buttons</label>\n			</p>",
+			" /admins",
+			"pr.",
+			"p.",
+			"s_",
+			"pr_",
+			"s.",
+			"''",
+			"\"",
+			"",
+			"items",
+			"  if ($_SERVER['REMOTE_ADDR'] == '86.124.75.63') {\n      echo $this->db->last_query().'<br /><br />';\n  }",
+			"<br /><br />",
+			"<div class=\"item\">\n						<a href=\"stiri-single.html\">",
+			"<div class=\"item video\">\n						<a href=\"stiri-single.html\">",
+			"\"",
+			"",
+			"s",
+			"t",
+			"s",
+			"t",
+			"S",
+			"s",
+			"t",
+			"resetTotal();"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.xdebug":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "bookkeeper.sublime-project",
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"indexhtml",
+				"app\\Resources\\views\\default\\index.html.twig"
+			],
+			[
+				"defaultco",
+				"src\\AppBundle\\Controller\\DefaultController.php"
+			],
+			[
+				"configpara",
+				"app\\config\\parameters.yml"
+			],
+			[
+				"mbemo",
+				"_system\\_default\\mbe_Model.php"
+			],
+			[
+				"admimain",
+				"admin\\js\\main.js"
+			],
+			[
+				"adminmain",
+				"admin\\js\\main.js"
+			],
+			[
+				"yam",
+				"_application\\views\\backend\\yaml\\owner.yaml"
+			],
+			[
+				"adminya",
+				"_application\\views\\backend\\yaml\\admin.yaml"
+			],
+			[
+				"admins",
+				"_application\\controllers\\admins.php"
+			],
+			[
+				"render",
+				"admin\\js\\editablegrid\\editablegrid_renderers.js"
+			],
+			[
+				"edita",
+				"admin\\js\\editablegrid\\editablegrid_editors.js"
+			],
+			[
+				"style",
+				"admin\\css\\styles.css"
+			],
+			[
+				"fonts",
+				"admin\\css\\font.css"
+			],
+			[
+				"sty",
+				"admin\\css\\styles.css"
+			],
+			[
+				"admin",
+				"_system\\_default\\models\\admin.php"
+			],
+			[
+				"editab",
+				"admin\\js\\editablegrid\\editablegrid.js"
+			],
+			[
+				"program_tem",
+				"_application\\models\\program_template.php"
+			],
+			[
+				"progr",
+				"_application\\models\\program_template.php"
+			],
+			[
+				"styles",
+				"admin\\css\\styles.css"
+			],
+			[
+				"program",
+				"_application\\models\\program_template.php"
+			],
+			[
+				"main",
+				"js\\main.js"
+			],
+			[
+				"wel",
+				"_application\\views\\frontend\\html\\welcome.php"
+			],
+			[
+				"heade",
+				"_application\\views\\frontend\\html\\layout\\html\\header.php"
+			],
+			[
+				"insta",
+				"install.rdf"
+			],
+			[
+				"css",
+				"skin\\main.css"
+			],
+			[
+				"mbe_mo",
+				"_system\\_default\\mbe_Model.php"
+			],
+			[
+				"mbe_mode",
+				"_system\\_default\\mbe_Model.php"
+			],
+			[
+				"mbe_au",
+				"_application\\libraries\\mbe_auth.php"
+			],
+			[
+				"main.",
+				"css\\main.css"
+			],
+			[
+				"customers",
+				"_application\\controllers\\customers.php"
+			],
+			[
+				"mbe_aut",
+				"_application\\libraries\\mbe_auth.php"
+			],
+			[
+				"main.css",
+				"css\\main.css"
+			],
+			[
+				"step_3_3",
+				"_application\\views\\frontend\\html\\customers\\step_3_3.php"
+			],
+			[
+				"facility",
+				"_application\\models\\facility.php"
+			],
+			[
+				"custo",
+				"_application\\controllers\\customers.php"
+			],
+			[
+				"constan",
+				"constants.php"
+			],
+			[
+				"step_3_",
+				"_application\\views\\frontend\\html\\customers\\step_3_3.php"
+			],
+			[
+				"step_1",
+				"_application\\views\\frontend\\html\\customers\\step_1.php"
+			],
+			[
+				"order",
+				"_application\\models\\order.php"
+			],
+			[
+				"varia",
+				"_system\\_default\\models\\variable.php"
+			],
+			[
+				"yaml",
+				"_application\\views\\backend\\yaml\\main_menu.yaml"
+			],
+			[
+				"customer",
+				"_application\\models\\customer.php"
+			],
+			[
+				"app",
+				"_application\\core\\app_Controller.php"
+			],
+			[
+				"app_c",
+				"_application\\core\\app_Controller.php"
+			],
+			[
+				"reserva",
+				"_application\\models\\reservation_line.php"
+			],
+			[
+				"mbeauth",
+				"_application\\libraries\\mbe_auth.php"
+			],
+			[
+				"custom",
+				"_application\\models\\customer.php"
+			],
+			[
+				"edit_fo",
+				"_application\\views\\frontend\\html\\elements\\mbe_auth\\edit_form.php"
+			],
+			[
+				"reser",
+				"_application\\models\\reservation_line.php"
+			],
+			[
+				"edit_",
+				"_application\\views\\frontend\\html\\elements\\mbe_auth\\edit_form.php"
+			],
+			[
+				"step_",
+				"_application\\views\\frontend\\html\\customers\\step_3_3.php"
+			],
+			[
+				"main.js",
+				"js\\main.js"
+			],
+			[
+				"step",
+				"_html\\step-4.html"
+			],
+			[
+				"variable",
+				"_system\\_default\\models\\variable.php"
+			],
+			[
+				"step_2",
+				"_application\\views\\frontend\\html\\customers\\step_2.php"
+			],
+			[
+				"invoi",
+				"_application\\models\\invoice.php"
+			],
+			[
+				"exchan",
+				"_application\\models\\exchange_rate.php"
+			],
+			[
+				"own.css",
+				"css\\own.css"
+			],
+			[
+				"payment",
+				"_application\\views\\frontend\\html\\customers\\payments.php"
+			],
+			[
+				"edit",
+				"_application\\views\\frontend\\html\\elements\\mbe_auth\\edit_form.php"
+			],
+			[
+				"helper",
+				"_application\\helpers\\user_helper.php"
+			],
+			[
+				"maincss",
+				"css\\main.css"
+			],
+			[
+				"double",
+				"_application\\models\\double_condo_photo.php"
+			],
+			[
+				"comple",
+				"_application\\views\\frontend\\html\\customers\\complete_order.php"
+			],
+			[
+				"step_3_2",
+				"_application\\views\\frontend\\html\\customers\\step_3_2.php"
+			],
+			[
+				"main_me",
+				"_application\\views\\backend\\yaml\\main_menu.yaml"
+			],
+			[
+				"footer",
+				"_application\\views\\frontend\\html\\layout\\html\\footer.php"
+			],
+			[
+				"own",
+				"css\\own.css"
+			],
+			[
+				"edit_f",
+				"_application\\views\\frontend\\html\\elements\\mbe_auth\\edit_form.php"
+			],
+			[
+				"own.c",
+				"css\\own.css"
+			],
+			[
+				"login",
+				"_application\\views\\frontend\\html\\elements\\mbe_auth\\login_form.php"
+			],
+			[
+				"var",
+				"_system\\_default\\models\\variable.php"
+			],
+			[
+				"edit_form",
+				"_application\\views\\frontend\\html\\elements\\mbe_auth\\edit_form.php"
+			],
+			[
+				"new_m",
+				"_system\\_default\\helpers\\new_email_helper.php"
+			],
+			[
+				"blaxy_e",
+				"_application\\helpers\\blaxy_helper.php"
+			],
+			[
+				"complete",
+				"_application\\views\\frontend\\html\\customers\\complete_order.php"
+			],
+			[
+				"condo",
+				"_application\\models\\condo.php"
+			],
+			[
+				"batch",
+				"_application\\models\\batch.php"
+			],
+			[
+				"constants",
+				"constants.php"
+			],
+			[
+				"select",
+				"_system\\_default\\views\\backend\\html\\elements\\inputs\\select.php"
+			],
+			[
+				"admin_hel",
+				"_system\\_default\\helpers\\admin_helper.php"
+			],
+			[
+				"bul",
+				"_application\\models\\bulk.php"
+			],
+			[
+				"bulk",
+				"_application\\models\\bulk.php"
+			],
+			[
+				"consta",
+				"constants.php"
+			],
+			[
+				"add.",
+				"_application\\views\\backend\\html\\bulks\\add.php"
+			],
+			[
+				"cons",
+				"constants.php"
+			],
+			[
+				"codn",
+				"_application\\models\\condo_photo.php"
+			],
+			[
+				"add.p",
+				"_application\\views\\backend\\html\\bulks\\add.php"
+			],
+			[
+				"edit.php",
+				"_system\\_default\\views\\backend\\html\\_default\\edit.php"
+			],
+			[
+				"",
+				"constants.php"
+			],
+			[
+				"mbe_mod",
+				"_system\\_default\\mbe_Model.php"
+			],
+			[
+				"index.php",
+				"_application\\views\\frontend\\html\\customers\\index.php"
+			],
+			[
+				"complete_order",
+				"_application\\views\\frontend\\html\\customers\\complete_order.php"
+			],
+			[
+				"step_3",
+				"_application\\views\\frontend\\html\\customers\\step_3_2.php"
+			],
+			[
+				"step_3_1",
+				"_application\\views\\frontend\\html\\customers\\step_3_1.php"
+			],
+			[
+				"main_",
+				"_application\\views\\backend\\yaml\\main_menu.yaml"
+			],
+			[
+				"faci",
+				"_application\\models\\facility.php"
+			],
+			[
+				"step-3.2",
+				"_html\\step-3.2.html"
+			],
+			[
+				"varaible",
+				"_system\\_default\\models\\variable.php"
+			],
+			[
+				"carts",
+				"_application\\controllers\\carts.php"
+			],
+			[
+				"mbe_m",
+				"_system\\_default\\mbe_Model.php"
+			],
+			[
+				"condos",
+				"_application\\controllers\\condos.php"
+			],
+			[
+				"backendedit",
+				"_system\\_default\\views\\backend\\html\\_default\\edit.php"
+			],
+			[
+				"vari",
+				"_system\\_default\\models\\variable.php"
+			],
+			[
+				"variab",
+				"_system\\_default\\models\\variable.php"
+			],
+			[
+				"reservation",
+				"_application\\models\\reservation.php"
+			],
+			[
+				"admin_helper",
+				"_system\\_default\\helpers\\admin_helper.php"
+			],
+			[
+				"perm",
+				"_application\\models\\perm.php"
+			],
+			[
+				"blaxy_",
+				"_application\\helpers\\blaxy_helper.php"
+			],
+			[
+				"step-3",
+				"_html\\step-3.1.html"
+			],
+			[
+				"reservation_line",
+				"_application\\models\\reservation_line.php"
+			],
+			[
+				"base",
+				"_application\\models\\base_price.php"
+			],
+			[
+				"block",
+				"_application\\models\\block.php"
+			],
+			[
+				"ad",
+				"_application\\controllers\\admins.php"
+			],
+			[
+				"condo.",
+				"_application\\models\\condo.php"
+			],
+			[
+				"blaxy_helper",
+				"_application\\helpers\\blaxy_helper.php"
+			],
+			[
+				"blaxy_hel",
+				"_application\\helpers\\blaxy_helper.php"
+			],
+			[
+				"blaxy_help",
+				"_application\\helpers\\blaxy_helper.php"
+			],
+			[
+				"user",
+				"_application\\helpers\\user_helper.php"
+			],
+			[
+				"mbe_auth",
+				"_application\\libraries\\mbe_auth.php"
+			],
+			[
+				"blax",
+				"_application\\helpers\\blaxy_helper.php"
+			],
+			[
+				"reservat",
+				"_application\\models\\reservation.php"
+			],
+			[
+				"express",
+				"_system\\_default\\models\\expression.php"
+			],
+			[
+				"blay_",
+				"_application\\helpers\\blaxy_helper.php"
+			],
+			[
+				"bla",
+				"_application\\helpers\\blaxy_helper.php"
+			],
+			[
+				"blaxy_he",
+				"_application\\helpers\\blaxy_helper.php"
+			],
+			[
+				"header",
+				"_application\\views\\frontend\\html\\layout\\main\\header.php"
+			],
+			[
+				"ste",
+				"_html\\step-4.html"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"D:\\xampp\\htdocs\\ment-commercial\\ment-commercial.sublime-project"
+			],
+			[
+				"ROMA",
+				"D:\\xampp\\htdocs\\romania-holland-treaty\\romania-holland-treaty.sublime-project"
+			],
+			[
+				"vic",
+				"D:\\xampp\\htdocs\\victoria\\victoria.sublime-project"
+			],
+			[
+				"kah",
+				"D:\\xampp\\htdocs\\kahla\\kahla.sublime-project"
+			],
+			[
+				"bla",
+				"D:\\xampp\\htdocs\\blaxy\\blaxy.sublime-project"
+			],
+			[
+				"mo",
+				"D:\\xampp\\htdocs\\monden\\monden.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 624.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+		"xdebug":
+		{
+			"hide_conflict": false,
+			"restore_index":
+			{
+				"62":
+				{
+					"group": 0,
+					"index": 0
+				},
+				"63":
+				{
+					"group": 0,
+					"index": 1
+				},
+				"64":
+				{
+					"group": 0,
+					"index": 2
+				},
+				"65":
+				{
+					"group": 0,
+					"index": 3
+				},
+				"66":
+				{
+					"group": 0,
+					"index": 4
+				}
+			},
+			"restore_layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			}
+		}
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 268.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
