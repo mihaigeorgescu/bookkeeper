@@ -4,436 +4,516 @@
 		"selected_items":
 		[
 			[
-				"link",
-				"links	link - stylesheet"
+				"in",
+				"inputt	input - text"
 			],
 			[
-				"ea",
-				"$earlyWin〔variable〕"
+				"income",
+				"incomeBySource"
 			],
 			[
-				"dama",
-				"damageFormula〔function〕"
+				"curren",
+				"currency"
 			],
 			[
-				"functio",
-				"function_exists"
+				"numb",
+				"number_format"
 			],
 			[
-				"doc",
-				"document〔variable〕"
+				"prev",
+				"previousInterval"
 			],
 			[
-				"soc",
-				"socket_accept"
+				"Prev",
+				"previousInterval"
 			],
 			[
-				"pdf",
-				"pdfExportPath"
+				"PREVIO",
+				"previousMonth"
 			],
 			[
-				"user_meta",
-				"user_metadata_field"
+				"PRE",
+				"previousYear"
 			],
 			[
-				"serial",
-				"serializeArray  (function)"
+				"previo",
+				"previousMonth"
 			],
 			[
-				"label",
-				"label	<label> with <input>"
+				"tmp",
+				"tmpDateFirst"
 			],
 			[
-				"input",
-				"input	input - text"
+				"appointmen",
+				"appointments"
 			],
 			[
-				"bol",
-				"bolder"
-			],
-			[
-				"class",
-				"className"
-			],
-			[
-				"html",
-				"htmlInput"
-			],
-			[
-				"seria",
-				"serializeTable"
-			],
-			[
-				"ser",
-				"serializeTable"
-			],
-			[
-				"eac",
-				"each	.each()"
-			],
-			[
-				"serialize",
-				"serializeTable"
-			],
-			[
-				"clear",
-				"clearInterval"
-			],
-			[
-				"cons",
-				"console"
-			],
-			[
-				"all",
-				"allClasses"
-			],
-			[
-				"get",
-				"getTimings"
-			],
-			[
-				"before",
-				"beforeCounter"
-			],
-			[
-				"promise",
-				"promiseWhile"
-			],
-			[
-				"conso",
-				"conslog"
-			],
-			[
-				"innerh",
-				"innerHTML"
-			],
-			[
-				"generate",
-				"generateCode"
-			],
-			[
-				"str",
-				"strClasses"
-			],
-			[
-				"emai",
-				"email_hash"
-			],
-			[
-				"max-",
-				"max-width"
-			],
-			[
-				"pa",
-				"padding-right"
-			],
-			[
-				"order",
-				"order_by"
-			],
-			[
-				"fade",
-				"fadeOut  (function)"
-			],
-			[
-				"path",
-				"pathinfo()	standard Function"
-			],
-			[
-				"scroll",
-				"scrollTop	.scrollTop()"
-			],
-			[
-				"var_dum",
-				"var_dump"
-			],
-			[
-				"seriali",
-				"serializeArray	.serializeArray()"
-			],
-			[
-				"backg",
-				"background-color"
-			],
-			[
-				"min-",
-				"min-height"
-			],
-			[
-				"ca",
-				"clean_cart  (function)"
-			],
-			[
-				"deg",
-				"degradation"
-			],
-			[
-				"var_dump",
-				"var_dump()	standard Function"
-			],
-			[
-				"admin_hand",
-				"admin_handle_add  (function)"
-			],
-			[
-				"construct",
-				"__construct()	Magic Method"
-			],
-			[
-				"mbe",
-				"mbe_Model  (class)"
-			],
-			[
-				"condo_",
-				"condo_photo"
-			],
-			[
-				"uplo",
-				"upload_field_file  (function)"
-			],
-			[
-				"floor",
-				"floor_available"
-			],
-			[
-				"micro",
-				"microtime()	standard Function"
-			],
-			[
-				"hal",
-				"half_1"
-			],
-			[
-				"str_pad",
-				"str_pad()	standard Function"
-			],
-			[
-				"from",
-				"from_new_order"
-			],
-			[
-				"reser",
-				"reservation_lines"
-			],
-			[
-				"explode",
-				"explode()	standard Function"
-			],
-			[
-				"remove",
-				"removeAttr	.removeAttr()"
-			],
-			[
-				"hi",
-				"highlightArea"
-			],
-			[
-				"endfo",
-				"endforeach	Language Construct"
-			],
-			[
-				"ge",
-				"getDateSpans"
-			],
-			[
-				"g",
-				"getDateSpans"
-			],
-			[
-				"in_array",
-				"in_array()"
-			],
-			[
-				"form",
-				"formContainerClass"
-			],
-			[
-				"strto",
-				"strtoupper"
-			],
-			[
-				"blaxy_",
-				"blaxy_reservation_lines"
-			],
-			[
-				"array_uni",
-				"array_unique()"
-			],
-			[
-				"w",
-				"width"
-			],
-			[
-				"rese",
-				"reservation_lines  (function)"
-			],
-			[
-				"app_",
-				"app_Model  (class)"
-			],
-			[
-				"var_d",
-				"var_dump"
+				"financial",
+				"financialPieChartData"
 			],
 			[
 				"var",
-				"var_dump()"
+				"var_dump"
 			],
 			[
-				"date",
-				"DateTime  (class)"
+				"stackedBar",
+				"weekStackedBarChartData"
 			],
 			[
-				"Da",
-				"DateTime()"
+				"the",
+				"theCharts"
 			],
 			[
-				"repla",
-				"replace-chosen"
+				"padding",
+				"padding-left"
 			],
 			[
-				"admin",
-				"admin_blaxy"
+				"last",
+				"last30DaysHours"
 			],
 			[
-				"xde",
-				"xdebug_call_function()"
+				"app",
+				"appointments"
 			],
 			[
-				"output",
-				"output_json	CI - output Json"
+				"s",
+				"statistics  (namespace)"
 			],
 			[
-				"array_sl",
-				"array_slice()"
+				"current",
+				"currentImage"
 			],
 			[
-				"PHP_ROUND",
-				"PHP_ROUND_HALF_UP"
+				"prepend",
+				"prependTo  (function)"
 			],
 			[
-				"im",
-				"important"
+				"server",
+				"serverResponse"
 			],
 			[
-				"value",
-				"value"
+				"string",
+				"stringify"
 			],
 			[
-				"var_du",
-				"var_dump()"
+				"JS",
+				"JSON"
 			],
 			[
-				"outpu",
-				"output_json	CI - output Json"
-			],
-			[
-				"outp",
-				"output_json	CI - output Json"
-			],
-			[
-				"out",
-				"output_json	CI - output Json"
-			],
-			[
-				"seri",
-				"serializeArray	.serializeArray()"
-			],
-			[
-				"has",
-				"hasClass	.hasClass"
-			],
-			[
-				"each",
-				"each  (function)"
-			],
-			[
-				"library",
-				"librarySlider"
-			],
-			[
-				"librar",
-				"librarySlider"
-			],
-			[
-				"fun",
-				"function"
-			],
-			[
-				"q",
-				"qString  (variable)"
-			],
-			[
-				"inline-",
-				"inline-block"
-			],
-			[
-				"c",
-				"check_unique  (function)"
-			],
-			[
-				"sub",
-				"substr"
-			],
-			[
-				"reques",
-				"requested_url"
+				"acc",
+				"account_id"
 			],
 			[
 				"back",
 				"background-color"
 			],
 			[
-				"fo",
-				"font-weight"
+				"rated",
+				"ratedStar"
 			],
 			[
-				"table",
-				"table-cell"
+				"remov",
+				"removeClass  (function)"
 			],
 			[
-				"mi",
-				"middle"
+				"up",
+				"update_expert_average  (function)"
 			],
 			[
-				"background-",
-				"background-color"
+				"force",
+				"force-payed"
 			],
 			[
-				"strpos",
-				"strpos()"
+				"u",
+				"user  (namespace)"
 			],
 			[
-				"strp",
-				"strpos"
+				"lo",
+				"login-form"
 			],
 			[
-				"url",
-				"urlencode"
+				"has",
+				"hasClass	.hasClass()"
 			],
 			[
-				"_win",
-				"_window_h"
+				"unrated",
+				"unratedConsultations"
+			],
+			[
+				"strto",
+				"strtoupper"
+			],
+			[
+				"from",
+				"from_hour"
+			],
+			[
+				"parent",
+				"parentLi"
+			],
+			[
+				"acti",
+				"ActivityIndicator"
+			],
+			[
+				"flag",
+				"flaggy"
+			],
+			[
+				"replaceW",
+				"replaceWithUnderscore"
+			],
+			[
+				"memberre",
+				"memberRepliesCount"
+			],
+			[
+				"inputs",
+				"inputsContainer"
+			],
+			[
+				"all",
+				"allCountries"
+			],
+			[
+				"start",
+				"startWith"
+			],
+			[
+				"memberReplies",
+				"memberRepliesCount"
+			],
+			[
+				"memberRep",
+				"memberRepliesCount"
+			],
+			[
+				"account_",
+				"account_type"
+			],
+			[
+				"clea",
+				"clearInterval  (function)"
+			],
+			[
+				"account",
+				"accountType"
+			],
+			[
+				"member",
+				"memberDashboard"
+			],
+			[
+				"me",
+				"memberDashboard  (namespace)"
+			],
+			[
+				"append",
+				"appendTo	.appendTo()"
+			],
+			[
+				"show",
+				"show_error"
+			],
+			[
+				"output",
+				"output_json	CI - output Json"
+			],
+			[
+				"data",
+				"dataForSending"
+			],
+			[
+				"expert_s",
+				"expert_schedule"
+			],
+			[
+				"outpu",
+				"output_json	CI - output Json"
+			],
+			[
+				"fig",
+				"figure-expert-avatar"
+			],
+			[
+				"figure",
+				"figure-member-avatar"
+			],
+			[
+				"figure-",
+				"figure-expert-avatar"
+			],
+			[
+				"margin-",
+				"margin-top"
+			],
+			[
+				"g",
+				"getTable  (function)"
+			],
+			[
+				"stripe",
+				"stripe_check_expert_bank_account  (function)"
+			],
+			[
+				"succ",
+				"successfuly"
+			],
+			[
+				"expert_",
+				"expert_first_reply"
 			],
 			[
 				"add",
 				"addslashes"
 			],
 			[
-				"error",
-				"errorThrown"
+				"strip_t",
+				"strip_tags()	standard Function"
 			],
 			[
-				"ob_s",
-				"ob_flush"
+				"margin",
+				"margin-top"
 			],
 			[
-				"cate",
-				"category_id"
+				"cha",
+				"chargeData  (variable)"
 			],
 			[
-				"inlin",
-				"inline-block"
+				"Serializ",
+				"serializeArray  (function)"
+			],
+			[
+				"timestamp",
+				"reply_timestamp"
+			],
+			[
+				"chat_im",
+				"chat_img_src"
+			],
+			[
+				"conversat",
+				"conversationContainer"
+			],
+			[
+				"runningAjax",
+				"runningMemberChatAjax"
+			],
+			[
+				"query",
+				"queryMode"
+			],
+			[
+				"conversa",
+				"conversationContainer"
+			],
+			[
+				"click",
+				"click  (function)"
+			],
+			[
+				"e",
+				"evSource  (namespace)"
+			],
+			[
+				"db",
+				"db_select	CI - Active Record DB Select"
+			],
+			[
+				"desiredEx",
+				"desiredExpertLevel"
+			],
+			[
+				"label",
+				"label	<label>"
+			],
+			[
+				"text",
+				"textArea"
+			],
+			[
+				"expertT",
+				"expertTypeId"
+			],
+			[
+				"consultation",
+				"consultationType"
+			],
+			[
+				"json",
+				"json_encode"
+			],
+			[
+				"input",
+				"input	input - hidden"
+			],
+			[
+				"index",
+				"indexOf"
+			],
+			[
+				"evt",
+				"  Attach an event handler function for one or more events to"
+			],
+			[
+				"full",
+				"fullMiniHeader"
+			],
+			[
+				"serialize",
+				"serializeArray  (function)"
+			],
+			[
+				"a",
+				"a	<a>"
+			],
+			[
+				"price",
+				"priceSlidesProps"
+			],
+			[
+				"loadr",
+				"loaderText"
+			],
+			[
+				"remo",
+				"removeAttr  (function)"
+			],
+			[
+				"remove",
+				"removeAttr  (function)"
+			],
+			[
+				"sub",
+				"submitForm"
+			],
+			[
+				"_",
+				"_action"
+			],
+			[
+				"prepen",
+				"prependTo	.prependTo()"
+			],
+			[
+				"consu",
+				"consultation_id"
+			],
+			[
+				"befor",
+				"beforeOrAfter"
+			],
+			[
+				"be",
+				"beforeOrAfter"
+			],
+			[
+				"curr",
+				"currentHtml"
+			],
+			[
+				"doms",
+				"domSelector"
+			],
+			[
+				"post",
+				"post	$.post()"
+			],
+			[
+				"STR",
+				"stringify"
+			],
+			[
+				"one-",
+				"one-health-concern"
+			],
+			[
+				"each",
+				"each	$.each()"
+			],
+			[
+				"stream",
+				"streamCreated"
+			],
+			[
+				"url",
+				"urlSuccessPage"
+			],
+			[
+				"mm",
+				"memberDashboard"
+			],
+			[
+				"submi",
+				"submitInput"
+			],
+			[
+				"template",
+				"templateText"
+			],
+			[
+				"get",
+				"get	$.get()"
+			],
+			[
+				"l",
+				"location  (variable)"
+			],
+			[
+				"is_a",
+				"is_ajax	CI - Is ajax request"
+			],
+			[
+				"__c",
+				"__construct()	Magic Method"
+			],
+			[
+				"medica",
+				"medicationContainer"
+			],
+			[
+				"cli",
+				"click  (function)"
+			],
+			[
+				"on",
+				"on  (function)"
+			],
+			[
+				"memb",
+				"member_id"
+			],
+			[
+				"strin",
+				"stringify"
+			],
+			[
+				"backgro",
+				"background-color:   (property)"
+			],
+			[
+				"fai",
+				"failCallBackFunction"
+			],
+			[
+				"li",
+				"liClicListener"
+			],
+			[
+				"appen",
+				"appendTo  (function)"
+			],
+			[
+				"call",
+				"callBackFunction"
+			],
+			[
+				"Date",
+				"DateTime  (class)"
+			],
+			[
+				"v",
+				"validationErrors"
 			]
 		]
 	},
@@ -448,11 +528,31 @@
 	"command_palette":
 	{
 		"height": 392.0,
-		"last_filter": "ins",
+		"last_filter": "",
 		"selected_items":
 		[
 			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
 				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"git lice",
+				"SublimeGit: Add License"
+			],
+			[
+				"disa",
+				"Package Control: Disable Package"
+			],
+			[
+				"insta",
 				"Package Control: Install Package"
 			],
 			[
@@ -460,72 +560,80 @@
 				"Set Syntax: HTML"
 			],
 			[
-				"rem",
-				"Package Control: Remove Package"
-			],
-			[
-				"xdeb",
-				"Xdebug: Stop Debugging"
+				"pref",
+				"Preferences: SublimeLinter Settings – User"
 			],
 			[
 				"install",
 				"Package Control: Install Package"
 			],
 			[
-				"insta",
+				"lis",
+				"Package Control: List Packages"
+			],
+			[
+				"install ",
 				"Package Control: Install Package"
 			],
 			[
-				"disa",
-				"Package Control: Disable Package"
-			],
-			[
-				"inst",
-				"Package Control: Install Package"
-			],
-			[
-				"dis",
-				"Package Control: Disable Package"
+				"syn j",
+				"Set Syntax: JavaScript"
 			],
 			[
 				"pack",
-				"Package Control: Disable Package"
+				"Package Control: Advanced Install Package"
 			],
 			[
-				"line",
-				"Line Ending: Unix"
-			],
-			[
-				"enable",
-				"Package Control: Enable Package"
-			],
-			[
-				"Package Control: ",
-				"Package Control: Remove Package"
-			],
-			[
-				"disab",
-				"Package Control: Disable Package"
-			],
-			[
-				"Package Control: remove",
-				"Package Control: Remove Package"
-			],
-			[
-				"syntax ht",
-				"Set Syntax: HTML5"
-			],
-			[
-				"synt ht",
-				"Set Syntax: HTML (Tcl)"
+				"syn js",
+				"Set Syntax: JavaScript"
 			],
 			[
 				"syn ja",
 				"Set Syntax: JavaScript"
 			],
 			[
-				"remo",
-				"Package Control: Remove Package"
+				"dsa",
+				"Package Control: Disable Package"
+			],
+			[
+				"disab",
+				"Package Control: Disable Package"
+			],
+			[
+				"ena",
+				"Package Control: Enable Package"
+			],
+			[
+				"synt ja",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"sy p",
+				"Set Syntax: PHP"
+			],
+			[
+				"mini",
+				"Minify::Minify File"
+			],
+			[
+				"synt ht",
+				"Set Syntax: HTML5"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"packa",
+				"Package Control: Disable Package"
+			],
+			[
+				"syn ht",
+				"Set Syntax: HTML5"
 			],
 			[
 				"remove",
@@ -536,40 +644,24 @@
 				"Set Syntax: HTML with mustaches"
 			],
 			[
-				"syntax htm",
-				"Set Syntax: HTML5"
-			],
-			[
-				"INSTA",
-				"Package Control: Install Package"
-			],
-			[
-				"list",
-				"Package Control: List Packages"
-			],
-			[
 				"instal",
 				"Package Control: Install Package"
 			],
 			[
-				"remove p",
-				"Package Control: Remove Package"
-			],
-			[
-				"remove pa",
-				"Package Control: Remove Package"
-			],
-			[
-				"lint",
-				"SublimeLinter: Lint This View"
-			],
-			[
-				"Package Control: insta",
-				"Package Control: Install Package"
+				"syntax ja",
+				"Set Syntax: JavaScript"
 			],
 			[
 				"syntax js",
 				"Set Syntax: JSON"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			],
+			[
+				"package",
+				"Package Control: Enable Package"
 			],
 			[
 				"ra",
@@ -588,10 +680,6 @@
 				"Goto Documentation"
 			],
 			[
-				"packa",
-				"Package Control: List Packages"
-			],
-			[
 				"hexv",
 				"Preferences: Hex Viewer Key Bindings – Default"
 			],
@@ -608,10 +696,6 @@
 				"SublimeLinter: Choose Lint Mode"
 			],
 			[
-				"pref",
-				"Preferences: SublimeLinter Settings – User"
-			],
-			[
 				"Package Control: rem",
 				"Package Control: Remove Package"
 			],
@@ -620,13 +704,15 @@
 				"Package Control: Install Package"
 			]
 		],
-		"width": 904.0
+		"width": 593.0
 	},
 	"console":
 	{
-		"height": 427.0,
+		"height": 126.0,
 		"history":
 		[
+			"where phplint",
+			"where",
 			"View.options().get(\"default_line_endings\");",
 			"view.options().get(\"default_line_endings\");",
 			"view.options.get(\"default_line_endings\");",
@@ -652,21 +738,181 @@
 	},
 	"expanded_folders":
 	[
-		"/D/xampp/htdocs/bookkeeper"
+		"/var/www/bookkeeper"
 	],
 	"file_history":
 	[
+		"/var/www/mentx/_application/core/app_Controller.php",
+		"/var/www/mentx/_system/_default/mbe_Controller.php",
+		"/var/www/mentx/_system/_default/mbe_Admins.php",
+		"/var/www/mentx/_system/_default/helpers/image_helper.php",
+		"/var/www/mentx/_system/_default/mbe_Model.php",
+		"/var/www/mentx/_application/views/backend/yaml/owner.yaml",
+		"/var/www/mentx/_application/views/backend/yaml/admin.yaml",
+		"/var/www/mentx/_application/helpers/real_helper.php",
+		"/var/www/mentx/_application/views/backend/yaml/main_menu.yaml",
+		"/var/www/mentx/constants.php",
+		"/var/www/mentx/_system/_default/views/backend/html/index.php",
+		"/var/www/mentx/admin/js/main.js",
+		"/media/mihai/Data/xampp/htdocs/ment-tv-backend/constants.php",
+		"/var/www/mentx/_application/config/routes.php",
+		"/var/www/ment/js/main.js",
+		"/var/www/ment/_application/controllers/crons.php",
+		"/var/www/ment/_application/core/app_Controller.php",
+		"/var/www/ment/_application/controllers/artists.php",
+		"/var/www/ment/_application/controllers/admins.php",
+		"/var/www/ment/_application/models/image_cache.php",
+		"/var/www/ment/_system/_default/mbe_Loader.php",
+		"/var/www/ment/_application/models/artist.php",
+		"/media/mihai/Data/OS X Yosemite/VMware Unlocker/VMware Unlocker - Mac OS X Guest/VMware 7.1.x Series/README.txt",
+		"/var/www/ment/js/vars.js",
+		"/home/mihai/kit/PhpStorm-139.1348/bin/phpstorm.sh",
+		"/home/mihai/.local/share/applications/mimeapps.list",
+		"/var/www/ment/index.php",
+		"/var/www/ment/_system/_default/mbe_Admins.php",
+		"/var/www/ment/_system/_default/models/admin.php",
+		"/var/www/ment/constants.php",
+		"/media/mihai/Data/xampp/htdocs/ment-tv-backend/index.php",
+		"/var/www/ment/index.txt",
+		"/var/www/ment/_system/code_igniter/core/CodeIgniter.php",
+		"/var/www/ment/_system/_default/mbe_Model.php",
+		"/var/www/ment/_application/controllers/program_templates.php",
+		"/var/www/ment/_application/models/program_template.php",
+		"/var/www/ment/_application/views/backend/yaml/admin.yaml",
+		"/var/www/ment/_system/code_igniter/core/Controller.php",
+		"/var/www/ment/_system/_default/mbe_Controller.php",
+		"/var/www/ment/_application/models/admin_group.php",
+		"/var/www/ment/_application/models/report_email_list.php",
+		"/var/www/ment/_system/_default/models/image_cache.php",
+		"/home/mihai/.config/sublime-text-3/Packages/User/Base File.sublime-settings",
+		"/home/mihai/.config/sublime-text-3/Packages/Alignment/Base File.sublime-settings",
+		"/var/www/ment/_system/_default/mbe_Input.php",
+		"/var/www/ment/_system/_default/mbe_Router.php",
+		"/var/www/ment/_system/_default/mbe_database.php",
+		"/var/www/ment/_system/_default/views/backend/html/_default/listing_table.php",
+		"/var/www/ment/_system/_default/views/backend/html/_default/reorder.php",
+		"/var/www/ment/_system/_default/views/backend/html/_default/preview.php",
+		"/var/www/ment/_system/_default/views/backend/html/_default/edit.php",
+		"/var/www/ment/_system/_default/views/backend/html/_default/add.php",
+		"/var/www/ment/_application/config/config.php",
+		"/var/www/ment/_system/_default/mbe_Output.php",
+		"/var/www/ment/.htaccess",
+		"/var/www/emag_hero/constants.php",
+		"/var/www/emag_hero/classes.php",
+		"/var/www/emag_hero/functions.php",
+		"/var/www/test/config/session.php",
+		"/var/www/advanced/composer.json",
+		"/var/www/test/config/database.php",
+		"/var/www/test/config/filesystems.php",
+		"/media/mihai/Data/Kit/JetBrains PhpStorm 8.0.1/key.txt",
+		"/usr/local/squirrel-sql-3.6/squirrel-sql.bat",
+		"/usr/local/squirrel-sql-3.6/squirrel-sql.sh",
+		"/usr/local/squirrel-sql-3.6/log4j.properties",
+		"/home/mihai/.config/sublime-text-3/Packages/User/SublimeLinter.sublime-settings",
+		"/var/www/test/vendor/composer/ClassLoader.php",
+		"/home/mihai/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+		"/var/www/html/test/tests/ExampleTest.php",
+		"/home/mihai/.config/sublime-text-3/Packages/Default/Preferences.sublime-settings",
+		"/media/mihai/78962D6A962D2A58/Users/User1/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/media/mihai/78962D6A962D2A58/Users/User1/AppData/Local/SquirrelTemp/SquirrelSetup.log",
+		"/var/www/html/test/app/Http/Controllers/Controller.php",
+		"/var/www/html/test/database/seeds/DatabaseSeeder.php",
+		"/var/www/html/test/app/Http/routes.php",
+		"/var/www/html/test/database/seeds/ProjectsTableSeeder.php",
+		"/var/www/html/test/resources/views/welcome.blade.php",
+		"/var/www/html/test/.env",
+		"/var/www/html/test/database/migrations/2015_06_18_173117_create_projects_and_tasks_tables.php",
+		"/home/mihai/Desktop/SQuirreL-SQL-Client-1434649629940.desktop",
+		"/var/www/html/test/database/seeds/TasksTableSeeder.php",
+		"/var/www/html/test/public/.htaccess",
+		"/var/www/html/ci/composer.json",
+		"/var/www/html/test/bootstrap/autoload.php",
+		"/var/www/html/test/bootstrap/app.php",
+		"/home/mihai/Downloads/avidemux_2.6.10/bootStrap.bash",
+		"/var/www/html/test/composer.json",
+		"/etc/apache2/apache2.conf",
+		"/var/www/html/test/.htaccess",
+		"/var/www/html/info.php",
+		"/etc/php5/apache2/php.ini",
+		"/home/mihai/Downloads/Non si Sevizia un Paperino (1972)/NON SI SEVIZIA UN PAPERINO (1972).Uncut.srt",
+		"/home/mihai/.profile",
+		"/home/mihai/Downloads/untitled.html",
+		"/home/mihai/Downloads/sette_note_in_nero/Bonus/featurette.srt",
+		"/media/mihai/Data/Kit/Sublime Text  3 Build 3065/Key.txt",
+		"/home/mihai/Downloads/sette_note_in_nero/sette_note_in_nero.esp.srt",
+		"/home/mihai/Downloads/sette_note_in_nero/sette_note_in_nero.srt",
+		"/media/mihai/Data/xampp/htdocs/kayus/_application/controllers/administration.php",
+		"/media/mihai/Data/xampp/htdocs/kayus/_application/controllers/administration_calendar.php",
+		"/media/mihai/Data/xampp/htdocs/kayus/js/main.js",
+		"/home/mihai/.config/sublime-text-3/Packages/SublimeLinter/SublimeLinter.sublime-settings",
+		"/D/xampp/htdocs/kayus/_system/code_igniter/core/CodeIgniter.php",
+		"/D/xampp/htdocs/kayus/_system/code_igniter/core/Benchmark.php",
+		"/D/xampp/htdocs/kayus/_application/core/app_Input.php",
+		"/D/xampp/htdocs/kayus/_application/controllers/administration.php",
+		"/D/xampp/php/php.ini",
+		"/D/xampp/htdocs/kayus/constants.php",
+		"/D/xampp/htdocs/kayus/_system/code_igniter/core/Common.php",
+		"/D/xampp/htdocs/kayus/_application/views/administration/html/pages/dashboard_statistics_advanced.php",
+		"/D/xampp/htdocs/kayus/js/administration_main.js",
+		"/D/xampp/htdocs/kayus/_application/views/administration/html/pages/dashboard_statistics_advanced_financial.php",
+		"/C/Users/User1/AppData/Local/Temp/scp01095/wp-content/themes/bigbillers/functions.php",
+		"/C/Users/User1/AppData/Local/Temp/scp00785/wp-content/themes/bigbillers/page_services_template.php",
+		"/D/xampp/htdocs/kayus/_application/views/administration/html/layout/html/footer.php",
+		"/D/xampp/htdocs/kayus/_application/controllers/facebookapp.php",
+		"/D/xampp/htdocs/kayus/_application/models/appointment.php",
+		"/C/Users/User1/AppData/Local/Temp/scp18696/public_html/admin/constants.php",
+		"/D/xampp/htdocs/kayus/_application/views/administration/html/pages/dashboard_statistics.php",
+		"/D/xampp/htdocs/kayus/img/drag.png",
+		"/D/xampp/htdocs/kayus/_application/views/administration/html/pages/dashboard.php",
+		"/D/xampp/htdocs/kayus/_application/cache/models/appointment.php",
+		"/C/Users/User1/AppData/Local/Temp/scp12592/wp-content/themes/bigbillers/page_services_template.php",
+		"/C/Users/User1/AppData/Local/Temp/scp24617/wp-content/themes/bigbillers/page_faq_template.php",
+		"/C/Users/User1/AppData/Local/Temp/scp13017/wp-content/themes/bigbillers/included/custom-fields.php",
+		"/C/Users/User1/AppData/Local/Temp/scp10523/wp-content/themes/bigbillers/page_home_template.php",
+		"/D/xampp/htdocs/kayus/_application/config/mimes.php"
 	],
 	"find":
 	{
-		"height": 34.0
+		"height": 23.0
 	},
 	"find_in_files":
 	{
 		"height": 90.0,
 		"where_history":
 		[
-			"D:\\xampp\\htdocs\\ment-tv-backend",
+			"/var/www/ment",
+			"D:\\xampp\\htdocs\\kayus",
+			"D:\\xampp\\htdocs\\kahla\\phonegap",
+			"D:\\xampp\\htdocs\\kahla\\_html",
+			"D:\\xampp\\htdocs\\kahla\\phonegap\\www",
+			"D:\\xampp\\htdocs\\kahla\\_application\\libraries\\stripe",
+			"D:\\xampp\\htdocs\\kahla\\_application\\controllers",
+			"D:\\xampp\\htdocs\\kahla",
+			"D:\\xampp\\htdocs\\kahla\\_application",
+			"D:\\xampp\\htdocs\\kahla\\_html",
+			"D:\\xampp\\htdocs\\kahla",
+			"D:\\xampp\\htdocs\\kahla\\_html",
+			"D:\\xampp\\htdocs\\kahla\\phonegap\\www",
+			"D:\\xampp\\htdocs\\kahla\\_html",
+			"D:\\xampp\\htdocs\\kahla\\phonegap\\www",
+			"",
+			"D:\\xampp\\htdocs\\kahla\\phonegap",
+			"D:\\xampp\\htdocs\\kahla\\phonegap\\www,D:\\xampp\\htdocs\\kahla\\phonegap\\www",
+			"D:\\xampp\\htdocs\\kahla\\phonegap\\www",
+			"D:\\xampp\\htdocs\\kahla\\_html",
+			"D:\\xampp\\htdocs\\kahla\\phonegap\\www",
+			"D:\\xampp\\htdocs\\kahla\\_html",
+			"D:\\xampp\\htdocs\\kahla\\phonegap",
+			"D:\\xampp\\htdocs\\kahla\\_html",
+			"D:\\xampp\\htdocs\\kahla",
+			"D:\\xampp\\htdocs\\kahla\\_html",
+			"D:\\xampp\\htdocs\\kahla",
+			"D:\\xampp\\htdocs\\kahla\\_html",
+			"D:\\xampp\\htdocs\\kahla",
+			"D:\\xampp\\htdocs\\kahla\\_application\\controllers",
+			"D:\\xampp\\htdocs\\kahla",
+			"D:\\xampp\\htdocs\\kahla\\_application\\controllers",
+			"D:\\xampp\\htdocs\\kahla",
 			"D:\\xampp\\htdocs\\blaxy",
 			"D:\\xampp\\htdocs\\blaxy\\_system\\_default\\helpers",
 			"D:\\xampp\\htdocs\\blaxy",
@@ -679,134 +925,134 @@
 		"case_sensitive": false,
 		"find_history":
 		[
-			"private",
-			"gameOver",
-			"NONE",
-			"colspan=\"6\"",
-			"rf",
-			"true",
-			"public",
-			"===",
-			"h2",
-			"th>",
-			"th",
-			"opponent",
-			"counter-attacks",
-			"echo propRow",
-			"attacks first.",
-			"</td><td>'.$orderus->strength.'</td><td>'.$orderus->defence.'</td><td>'.$orderus->speed.'</td><td>'.$orderus->luck.'</td></tr>';\n	echo '<tr><td>Beast</td><td>'.$beast->health.'</td",
-			"orderus",
-			"$result['round_'.$turn]['orderus'] = ",
-			"$result['round_'.$turn]['beast'] = ",
-			"<tr><td colspan=\"6\">",
-			"counter-attacks first",
-			"attacks...",
-			"sppedB",
-			"sppedO",
-			"td",
-			"orderus",
-			".$i",
-			"public",
-			"error",
-			"private",
-			" >",
-			";",
-			"java",
-			"buffering",
-			"buffer",
-			"zend",
-			"welcome.php",
-			" = ",
-			"|",
-			"datepicker",
-			"serializeTable",
-			"APPPATH.'../uploads/top_charts/'.$fileName.'.pdf'",
-			"options",
-			"chosen",
-			"multiple",
-			"dump",
+			"	function ",
 			"multi",
-			"name', ",
-			"endin",
+			"ALTER TABLE ",
+			"'",
+			"build_png",
+			"php",
+			"admin",
+			"admins",
+			"DEFAULTPATH",
+			"default_folder",
+			"application_folder",
+			"application_fo",
+			"default_folder",
+			"default",
+			"system_path",
+			"environment",
+			"ENVIRONMENT",
+			"environment",
+			"ENVIRONMENT",
+			"ci_version",
+			"ci_ver",
+			"11",
+			"array()",
+			"= array()",
+			"('');",
+			" = array()",
+			"('');",
+			"image_caches",
+			" = array()",
+			"ment_image_caches",
 			"var ",
-			"!!",
-			"!!!",
+			"define('",
+			" => ",
+			"langua",
+			"language",
+			"langua",
+			"language",
+			"langua",
+			"language",
+			"multi",
+			"INDEX_PAGE",
+			"multi",
+			"multi_la",
+			"password is too weak",
+			"The admin's password is too weak. Please change it to something stronger!",
+			"auto_com",
+			"show",
+			"enco",
+			"           ",
+			"            ",
+			"zend_ex",
+			"error_log",
+			"eror_re",
+			"max",
+			"mcry",
+			"work_process",
+			"candidates_homepage",
+			"clientsGenderPieChartData",
+			"incomePerSourcePieChartData",
+			"script",
+			"incomeBySource",
+			"details-con",
+			"incomeBySource",
+			"clientsPieChartData",
+			"clients-by",
+			"theCharts",
+			"cat_name",
+			"incomePerSourcePieChartData",
+			"clientsp",
+			"Source",
+			"source",
+			"sId",
+			"sData",
+			"allServices",
+			"finTopServices",
+			"br",
+			"dump",
+			"forma",
+			"tmpDateFirst",
+			"see be",
+			"subtotals",
+			"from",
+			"currn",
+			"	foreach ($vars['clients'] as",
+			"foreach ($vars['clients']",
+			"number",
+			"financial_advanced",
+			"finan",
+			"clientsPieChartData",
+			"tmpDate",
+			"clientsPieChartData",
+			"$vars['clients']",
+			"appointmentsPieChartData",
+			"bestService",
+			"allfre",
+			"allCategories",
+			"countAllAppointments",
+			"bestService",
+			"count30days",
+			"allArtists",
+			"allServices",
+			"allArtists",
+			">",
+			"</option>",
+			">",
+			"financi",
+			"post",
+			"fileinfo",
+			"nesting",
+			"xdeb",
+			"execu",
 			"time",
-			"gridArgument",
-			"bblu",
-			"edit",
-			"div",
-			"]);\n",
-			"cons",
-			"alert",
-			"trigger",
+			"max_execution_time",
+			"max_",
+			"current.",
+			"site_url",
 			"select",
-			"values",
-			"select",
-			"margin-bottom:-13px;",
-			"ipv",
-			"serializeTable",
-			" = ",
-			"$m",
-			"columns",
-			"update-template",
-			"jsondata",
-			"window.location",
-			"serializeTable",
-			"strong",
-			"remove",
-			"icon-box-remove",
-			"dele",
-			"tds",
-			"chan",
-			"chane",
-			"theDoc",
-			"theWin",
-			"50",
-			"reAlignArrows",
-			"timer150",
-			"cntr150",
-			"chat",
-			"custom-le",
-			"value",
-			"stop",
-			"circ",
-			"fin",
-			"destro",
-			"console.log",
-			"console",
-			"duration",
-			"yrsCounter",
-			"logSeconds",
-			"reAlignArrows",
-			"icon",
-			"revolution.slide.slideatend",
-			"#custom-header-container",
-			"demos-hdr-image",
-			"#demos-hdr-image",
-			"result",
-			"getTimings",
-			"$",
-			"slideElement",
-			"arrowsAtAnimationDone",
-			"opt.cdint",
-			"cdint",
-			".slide.slideatend",
-			"updateLayerFromFields",
-			"calcCaptionResponsive",
-			"animateTheCaptions",
-			"timer",
-			"nextsh",
-			"animat",
-			"console.log",
-			"stoptimer",
-			"settime",
-			"cannot inter",
-			"date",
-			"button",
-			"getcookies",
-			"iter",
-			"enumera"
+			"selec",
+			"year_and_month",
+			" ",
+			"$bm",
+			"smsResult",
+			"send_sms_alert",
+			"smsResult",
+			"send_sms_alert",
+			"bestCat",
+			"financial_advanced",
+			"== "
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -814,8 +1060,41 @@
 		"regex": false,
 		"replace_history":
 		[
-			"---",
-			"jQuery",
+			"img src=\"img/stat/",
+			"77",
+			"figure-expert-avatar",
+			"figure-member-avatar",
+			"figure-expert-image",
+			"figure-member-image",
+			"",
+			"02</span>:<span class=\"until_minute\">30<",
+			"<span class=\"from_hour\">08</span>:<span class=\"from_minute\">30</span>",
+			"pm\" cl",
+			"<span class=\"miniheader\"><small>MO</small><span><span class=\"b-hour\">08</span>:<span class=\"b-minute\">30</span> <span class=\"begin-am-pm\">AM</span> — <span class=\"end-hour\">02</span>:<span class=\"end-minute\">00</span> <span class=\"end-am-pm\">PM</span></span><i></i></span>",
+			"",
+			"<span class=\"dots\">:</span>",
+			"<strong class=\"dots\">:</strong>",
+			"",
+			"\n		<meta charset=\"utf-8\">\n		<title>Expert Account Creation</title>\n\n		<!-- Sets initial viewport load and disables zooming  -->\n		<meta name=\"viewport\" content=\"initial-scale=1, maximum-scale=1, user-scalable=no, minimal-ui\">\n\n		<!-- Makes your prototype chrome-less once bookmarked to your phone's home screen -->\n		<meta name=\"apple-mobile-web-app-capable\" content=\"yes\">\n		<meta name=\"apple-mobile-web-app-status-bar-style\" content=\"black\">\n\n		<link href=\"css/style.css\" rel=\"stylesheet\">\n	</head>",
+			"	<head>\n		<meta charset=\"utf-8\">\n		<title>Expert Account Creation</title>\n\n		<!-- Sets initial viewport load and disables zooming  -->\n		<meta name=\"viewport\" content=\"initial-scale=1, maximum-scale=1, user-scalable=no, minimal-ui\">\n\n		<!-- Makes your prototype chrome-less once bookmarked to your phone's home screen -->\n		<meta name=\"apple-mobile-web-app-capable\" content=\"yes\">\n		<meta name=\"apple-mobile-web-app-status-bar-style\" content=\"black\">\n\n		<link href=\"css/style.css\" rel=\"stylesheet\">\n	</head>",
+			"ActivityIndicator.hide();",
+			"ActivityIndicator.show('Please wait. Loading data...');",
+			"",
+			"'",
+			"#step3 form",
+			"#hcform",
+			"#ms3form‏",
+			"#health-concerns-form",
+			"#abcdef",
+			".member-step-tr-form‏",
+			".member-step-3-form‏",
+			".member-step-3-form‏ {",
+			"    ",
+			"....",
+			"150",
+			"OT.",
+			"    ",
+			"`",
 			"\"",
 			"\"hidden\"",
 			"press-me btn get-the-sms-bottom",
@@ -862,7 +1141,7 @@
 		"show_context": true,
 		"use_buffer2": true,
 		"whole_word": false,
-		"wrap": true
+		"wrap": false
 	},
 	"groups":
 	[
@@ -907,15 +1186,11 @@
 	{
 		"height": 0.0
 	},
-	"output.xdebug":
-	{
-		"height": 0.0
-	},
 	"pinned_build_system": "",
 	"project": "bookkeeper.sublime-project",
 	"replace":
 	{
-		"height": 62.0
+		"height": 42.0
 	},
 	"save_all_on_build": true,
 	"select_file":
@@ -925,516 +1200,516 @@
 		"selected_items":
 		[
 			[
-				"indexhtml",
-				"app\\Resources\\views\\default\\index.html.twig"
+				"yaml",
+				"_application/views/backend/yaml/admin.yaml"
 			],
 			[
-				"defaultco",
-				"src\\AppBundle\\Controller\\DefaultController.php"
+				"menuya",
+				"_application/views/backend/yaml/main_menu.yaml"
 			],
 			[
-				"configpara",
-				"app\\config\\parameters.yml"
+				"indexphp",
+				"_system/_default/views/backend/html/index.php"
 			],
 			[
-				"mbemo",
-				"_system\\_default\\mbe_Model.php"
+				"mainjs",
+				"js/main.js"
 			],
 			[
-				"admimain",
-				"admin\\js\\main.js"
+				"mbe_load",
+				"_system/_default/mbe_Loader.php"
 			],
 			[
-				"adminmain",
-				"admin\\js\\main.js"
-			],
-			[
-				"yam",
-				"_application\\views\\backend\\yaml\\owner.yaml"
-			],
-			[
-				"adminya",
-				"_application\\views\\backend\\yaml\\admin.yaml"
-			],
-			[
-				"admins",
-				"_application\\controllers\\admins.php"
-			],
-			[
-				"render",
-				"admin\\js\\editablegrid\\editablegrid_renderers.js"
-			],
-			[
-				"edita",
-				"admin\\js\\editablegrid\\editablegrid_editors.js"
-			],
-			[
-				"style",
-				"admin\\css\\styles.css"
-			],
-			[
-				"fonts",
-				"admin\\css\\font.css"
-			],
-			[
-				"sty",
-				"admin\\css\\styles.css"
+				"vars",
+				"js/vars.js"
 			],
 			[
 				"admin",
-				"_system\\_default\\models\\admin.php"
+				"_system/_default/models/admin.php"
 			],
 			[
-				"editab",
-				"admin\\js\\editablegrid\\editablegrid.js"
+				"mbead",
+				"_system/_default/mbe_Admins.php"
 			],
 			[
-				"program_tem",
-				"_application\\models\\program_template.php"
+				"admins",
+				"_application/controllers/admins.php"
 			],
 			[
-				"progr",
-				"_application\\models\\program_template.php"
-			],
-			[
-				"styles",
-				"admin\\css\\styles.css"
-			],
-			[
-				"program",
-				"_application\\models\\program_template.php"
-			],
-			[
-				"main",
-				"js\\main.js"
-			],
-			[
-				"wel",
-				"_application\\views\\frontend\\html\\welcome.php"
-			],
-			[
-				"heade",
-				"_application\\views\\frontend\\html\\layout\\html\\header.php"
-			],
-			[
-				"insta",
-				"install.rdf"
-			],
-			[
-				"css",
-				"skin\\main.css"
+				"codei",
+				"_system/code_igniter/core/CodeIgniter.php"
 			],
 			[
 				"mbe_mo",
-				"_system\\_default\\mbe_Model.php"
+				"_system/_default/mbe_Model.php"
 			],
 			[
-				"mbe_mode",
-				"_system\\_default\\mbe_Model.php"
-			],
-			[
-				"mbe_au",
-				"_application\\libraries\\mbe_auth.php"
-			],
-			[
-				"main.",
-				"css\\main.css"
-			],
-			[
-				"customers",
-				"_application\\controllers\\customers.php"
-			],
-			[
-				"mbe_aut",
-				"_application\\libraries\\mbe_auth.php"
-			],
-			[
-				"main.css",
-				"css\\main.css"
-			],
-			[
-				"step_3_3",
-				"_application\\views\\frontend\\html\\customers\\step_3_3.php"
-			],
-			[
-				"facility",
-				"_application\\models\\facility.php"
-			],
-			[
-				"custo",
-				"_application\\controllers\\customers.php"
-			],
-			[
-				"constan",
-				"constants.php"
-			],
-			[
-				"step_3_",
-				"_application\\views\\frontend\\html\\customers\\step_3_3.php"
-			],
-			[
-				"step_1",
-				"_application\\views\\frontend\\html\\customers\\step_1.php"
-			],
-			[
-				"order",
-				"_application\\models\\order.php"
-			],
-			[
-				"varia",
-				"_system\\_default\\models\\variable.php"
-			],
-			[
-				"yaml",
-				"_application\\views\\backend\\yaml\\main_menu.yaml"
-			],
-			[
-				"customer",
-				"_application\\models\\customer.php"
-			],
-			[
-				"app",
-				"_application\\core\\app_Controller.php"
-			],
-			[
-				"app_c",
-				"_application\\core\\app_Controller.php"
-			],
-			[
-				"reserva",
-				"_application\\models\\reservation_line.php"
-			],
-			[
-				"mbeauth",
-				"_application\\libraries\\mbe_auth.php"
-			],
-			[
-				"custom",
-				"_application\\models\\customer.php"
-			],
-			[
-				"edit_fo",
-				"_application\\views\\frontend\\html\\elements\\mbe_auth\\edit_form.php"
-			],
-			[
-				"reser",
-				"_application\\models\\reservation_line.php"
-			],
-			[
-				"edit_",
-				"_application\\views\\frontend\\html\\elements\\mbe_auth\\edit_form.php"
-			],
-			[
-				"step_",
-				"_application\\views\\frontend\\html\\customers\\step_3_3.php"
-			],
-			[
-				"main.js",
-				"js\\main.js"
-			],
-			[
-				"step",
-				"_html\\step-4.html"
-			],
-			[
-				"variable",
-				"_system\\_default\\models\\variable.php"
-			],
-			[
-				"step_2",
-				"_application\\views\\frontend\\html\\customers\\step_2.php"
-			],
-			[
-				"invoi",
-				"_application\\models\\invoice.php"
-			],
-			[
-				"exchan",
-				"_application\\models\\exchange_rate.php"
-			],
-			[
-				"own.css",
-				"css\\own.css"
-			],
-			[
-				"payment",
-				"_application\\views\\frontend\\html\\customers\\payments.php"
-			],
-			[
-				"edit",
-				"_application\\views\\frontend\\html\\elements\\mbe_auth\\edit_form.php"
-			],
-			[
-				"helper",
-				"_application\\helpers\\user_helper.php"
-			],
-			[
-				"maincss",
-				"css\\main.css"
-			],
-			[
-				"double",
-				"_application\\models\\double_condo_photo.php"
-			],
-			[
-				"comple",
-				"_application\\views\\frontend\\html\\customers\\complete_order.php"
-			],
-			[
-				"step_3_2",
-				"_application\\views\\frontend\\html\\customers\\step_3_2.php"
-			],
-			[
-				"main_me",
-				"_application\\views\\backend\\yaml\\main_menu.yaml"
-			],
-			[
-				"footer",
-				"_application\\views\\frontend\\html\\layout\\html\\footer.php"
-			],
-			[
-				"own",
-				"css\\own.css"
-			],
-			[
-				"edit_f",
-				"_application\\views\\frontend\\html\\elements\\mbe_auth\\edit_form.php"
-			],
-			[
-				"own.c",
-				"css\\own.css"
-			],
-			[
-				"login",
-				"_application\\views\\frontend\\html\\elements\\mbe_auth\\login_form.php"
-			],
-			[
-				"var",
-				"_system\\_default\\models\\variable.php"
-			],
-			[
-				"edit_form",
-				"_application\\views\\frontend\\html\\elements\\mbe_auth\\edit_form.php"
-			],
-			[
-				"new_m",
-				"_system\\_default\\helpers\\new_email_helper.php"
-			],
-			[
-				"blaxy_e",
-				"_application\\helpers\\blaxy_helper.php"
-			],
-			[
-				"complete",
-				"_application\\views\\frontend\\html\\customers\\complete_order.php"
-			],
-			[
-				"condo",
-				"_application\\models\\condo.php"
-			],
-			[
-				"batch",
-				"_application\\models\\batch.php"
-			],
-			[
-				"constants",
-				"constants.php"
-			],
-			[
-				"select",
-				"_system\\_default\\views\\backend\\html\\elements\\inputs\\select.php"
-			],
-			[
-				"admin_hel",
-				"_system\\_default\\helpers\\admin_helper.php"
-			],
-			[
-				"bul",
-				"_application\\models\\bulk.php"
-			],
-			[
-				"bulk",
-				"_application\\models\\bulk.php"
-			],
-			[
-				"consta",
-				"constants.php"
-			],
-			[
-				"add.",
-				"_application\\views\\backend\\html\\bulks\\add.php"
+				"report",
+				"_application/models/report_email_list.php"
 			],
 			[
 				"cons",
 				"constants.php"
 			],
 			[
-				"codn",
-				"_application\\models\\condo_photo.php"
+				"database",
+				"database/seeds/DatabaseSeeder.php"
 			],
 			[
-				"add.p",
-				"_application\\views\\backend\\html\\bulks\\add.php"
+				"welcom",
+				"resources/views/welcome.blade.php"
 			],
 			[
-				"edit.php",
-				"_system\\_default\\views\\backend\\html\\_default\\edit.php"
+				"htacc",
+				"public/.htaccess"
 			],
 			[
-				"",
+				"footer",
+				"_application\\views\\administration\\html\\layout\\html\\footer.php"
+			],
+			[
+				"adminijs",
+				"js\\administration_main.js"
+			],
+			[
+				"appoi",
+				"_application\\models\\appointment.php"
+			],
+			[
+				"consta",
 				"constants.php"
 			],
 			[
-				"mbe_mod",
-				"_system\\_default\\mbe_Model.php"
+				"dash",
+				"_application\\views\\administration\\html\\pages\\dashboard_statistics_advanced.php"
 			],
 			[
-				"index.php",
-				"_application\\views\\frontend\\html\\customers\\index.php"
+				"dashbfin",
+				"_application\\views\\administration\\html\\pages\\dashboard_statistics_advanced_financial.php"
 			],
 			[
-				"complete_order",
-				"_application\\views\\frontend\\html\\customers\\complete_order.php"
+				"appoin",
+				"_application\\models\\appointment.php"
 			],
 			[
-				"step_3",
-				"_application\\views\\frontend\\html\\customers\\step_3_2.php"
+				"adminis",
+				"js\\administration_main.js"
 			],
 			[
-				"step_3_1",
-				"_application\\views\\frontend\\html\\customers\\step_3_1.php"
+				"thank_",
+				"_application\\views\\facebook\\html\\facebook\\thank_you.php"
 			],
 			[
-				"main_",
-				"_application\\views\\backend\\yaml\\main_menu.yaml"
+				"faceb",
+				"_application\\controllers\\facebookapp.php"
 			],
 			[
-				"faci",
-				"_application\\models\\facility.php"
+				"das",
+				"_application\\views\\administration\\html\\pages\\dashboard_statistics.php"
 			],
 			[
-				"step-3.2",
-				"_html\\step-3.2.html"
+				"maincs",
+				"css\\main.css"
 			],
 			[
-				"varaible",
-				"_system\\_default\\models\\variable.php"
+				"administration",
+				"js\\administration_main.js"
 			],
 			[
-				"carts",
-				"_application\\controllers\\carts.php"
+				"appo",
+				"_application\\models\\appointment.php"
 			],
 			[
-				"mbe_m",
-				"_system\\_default\\mbe_Model.php"
+				"administraja",
+				"_application\\controllers\\administration_ajax.php"
 			],
 			[
-				"condos",
-				"_application\\controllers\\condos.php"
+				"stati",
+				"_application\\views\\administration\\html\\pages\\dashboard_statistics.php"
 			],
 			[
-				"backendedit",
-				"_system\\_default\\views\\backend\\html\\_default\\edit.php"
+				"administration_aja",
+				"_application\\controllers\\administration_ajax.php"
 			],
 			[
-				"vari",
-				"_system\\_default\\models\\variable.php"
+				"view_app",
+				"_application\\views\\administration\\html\\ajax\\view_appointment.php"
 			],
 			[
-				"variab",
-				"_system\\_default\\models\\variable.php"
+				"app",
+				"_application\\models\\appointment.php"
 			],
 			[
-				"reservation",
-				"_application\\models\\reservation.php"
+				"dashbo",
+				"_application\\views\\administration\\html\\pages\\dashboard_statistics.php"
 			],
 			[
-				"admin_helper",
-				"_system\\_default\\helpers\\admin_helper.php"
+				"dashboar",
+				"_application\\views\\administration\\html\\pages\\dashboard_statistics.php"
 			],
 			[
-				"perm",
-				"_application\\models\\perm.php"
+				"dashb",
+				"_application\\views\\administration\\html\\pages\\dashboard.php"
 			],
 			[
-				"blaxy_",
-				"_application\\helpers\\blaxy_helper.php"
+				"admini",
+				"_application\\controllers\\administration.php"
 			],
 			[
-				"step-3",
-				"_html\\step-3.1.html"
+				"admijs",
+				"js\\administration_main.js"
 			],
 			[
-				"reservation_line",
-				"_application\\models\\reservation_line.php"
+				"header",
+				"_application\\views\\administration\\html\\layout\\html\\header.php"
 			],
 			[
-				"base",
-				"_application\\models\\base_price.php"
+				"admincss",
+				"css\\administration_layout.css"
 			],
 			[
-				"block",
-				"_application\\models\\block.php"
-			],
-			[
-				"ad",
-				"_application\\controllers\\admins.php"
-			],
-			[
-				"condo.",
-				"_application\\models\\condo.php"
-			],
-			[
-				"blaxy_helper",
-				"_application\\helpers\\blaxy_helper.php"
-			],
-			[
-				"blaxy_hel",
-				"_application\\helpers\\blaxy_helper.php"
-			],
-			[
-				"blaxy_help",
-				"_application\\helpers\\blaxy_helper.php"
+				"user_",
+				"_application\\helpers\\user_helper.php"
 			],
 			[
 				"user",
 				"_application\\helpers\\user_helper.php"
 			],
 			[
-				"mbe_auth",
-				"_application\\libraries\\mbe_auth.php"
+				"user_he",
+				"_application\\helpers\\user_helper.php"
 			],
 			[
-				"blax",
-				"_application\\helpers\\blaxy_helper.php"
+				"layoutheader",
+				"_application\\views\\administration\\html\\layout\\html\\header.php"
 			],
 			[
-				"reservat",
-				"_application\\models\\reservation.php"
+				"administrajs",
+				"js\\administration_main.js"
 			],
 			[
-				"express",
-				"_system\\_default\\models\\expression.php"
+				"member_chat",
+				"phonegap\\www\\member_chat.html"
 			],
 			[
-				"blay_",
-				"_application\\helpers\\blaxy_helper.php"
+				"expert_chat",
+				"phonegap\\www\\expert_chat.html"
 			],
 			[
-				"bla",
-				"_application\\helpers\\blaxy_helper.php"
+				"expert_step3",
+				"phonegap\\www\\expert_step3.html"
 			],
 			[
-				"blaxy_he",
-				"_application\\helpers\\blaxy_helper.php"
+				"mbe_mod",
+				"_system\\_default\\mbe_Model.php"
 			],
 			[
-				"header",
-				"_application\\views\\frontend\\html\\layout\\main\\header.php"
+				"expert_doc",
+				"_application\\models\\expert_document.php"
 			],
 			[
-				"ste",
-				"_html\\step-4.html"
+				"own",
+				"phonegap\\www\\css\\own.css"
+			],
+			[
+				"aja",
+				"_application\\controllers\\ajax.php"
+			],
+			[
+				"expert_upload_certification.html",
+				"phonegap\\www\\expert_upload_certification.html"
+			],
+			[
+				"step3",
+				"phonegap\\www\\expert_step3.html"
+			],
+			[
+				"mime",
+				"_application\\config\\mimes.php"
+			],
+			[
+				"aj",
+				"_application\\controllers\\ajax.php"
+			],
+			[
+				"reply",
+				"_application\\models\\reply.php"
+			],
+			[
+				"own.",
+				"phonegap\\www\\css\\own.css"
+			],
+			[
+				"own.css",
+				"phonegap\\www\\css\\own.css"
+			],
+			[
+				"dashboard_e",
+				"phonegap\\www\\dashboard_e.html"
+			],
+			[
+				"constants",
+				"constants.php"
+			],
+			[
+				"ajax",
+				"_application\\controllers\\ajax.php"
+			],
+			[
+				"expert_settings_edit_profile",
+				"phonegap\\www\\expert_settings_edit_profile.html"
+			],
+			[
+				"member_settings_e",
+				"phonegap\\www\\member_settings_edit.html"
+			],
+			[
+				"expert_settings_edit.html",
+				"phonegap\\www\\expert_settings_edit.html"
+			],
+			[
+				"expert_chat.",
+				"phonegap\\www\\expert_chat.html"
+			],
+			[
+				"consu",
+				"_application\\models\\consultation.php"
+			],
+			[
+				"member_ask_question.html",
+				"phonegap\\www\\member_ask_question.html"
+			],
+			[
+				"member_ask_quest",
+				"phonegap\\www\\member_ask_question.html"
+			],
+			[
+				"style",
+				"phonegap\\www\\css\\style.css"
+			],
+			[
+				"loginh",
+				"phonegap\\www\\login.html"
+			],
+			[
+				"expert_bank_det",
+				"phonegap\\www\\expert_bank_details.html"
+			],
+			[
+				"expert_avai",
+				"phonegap\\www\\expert_availability.html"
+			],
+			[
+				"consulta",
+				"_application\\models\\consultation.php"
+			],
+			[
+				"expert_schedule",
+				"phonegap\\www\\templates\\expert_schedule.mustache"
+			],
+			[
+				"member_cha",
+				"phonegap\\www\\member_chat.html"
+			],
+			[
+				"login",
+				"phonegap\\www\\login.html"
+			],
+			[
+				"consul",
+				"_application\\models\\consultation.php"
+			],
+			[
+				"expert_ava",
+				"phonegap\\www\\expert_availability.html"
+			],
+			[
+				"expert_availa",
+				"_html\\expert_availability.html"
+			],
+			[
+				"ajax.p",
+				"_application\\controllers\\ajax.php"
+			],
+			[
+				"member_ask_question",
+				"phonegap\\www\\member_ask_question.html"
+			],
+			[
+				"ajax.",
+				"_application\\controllers\\ajax.php"
+			],
+			[
+				"billin",
+				"phonegap\\www\\billing.html"
+			],
+			[
+				"main.",
+				"phonegap\\www\\js\\main.js"
+			],
+			[
+				"ajax.php",
+				"_application\\controllers\\ajax.php"
+			],
+			[
+				"member_chat.",
+				"phonegap\\www\\member_chat.html"
+			],
+			[
+				"expert_ban",
+				"phonegap\\www\\expert_bank_details.html"
+			],
+			[
+				"expert_step6",
+				"phonegap\\www\\expert_step6.html"
+			],
+			[
+				"expert_bank_details",
+				"phonegap\\www\\expert_bank_details.html"
+			],
+			[
+				"dashboard_m",
+				"phonegap\\www\\dashboard_m.html"
+			],
+			[
+				"expert_bank_de",
+				"phonegap\\www\\expert_bank_details.html"
+			],
+			[
+				"phonegapindex.html",
+				"phonegap\\www\\index.html"
+			],
+			[
+				"expert",
+				"_application\\models\\expert.php"
+			],
+			[
+				"expert_step4",
+				"phonegap\\www\\expert_step4.html"
+			],
+			[
+				"member_pa",
+				"phonegap\\www\\member_payment_details.html"
+			],
+			[
+				"consult",
+				"_application\\models\\consultation.php"
+			],
+			[
+				"main",
+				"phonegap\\www\\js\\main.js"
+			],
+			[
+				"member_settings_edit",
+				"phonegap\\www\\member_settings_edit.html"
+			],
+			[
+				"phonegapstyle",
+				"phonegap\\www\\css\\style.css"
+			],
+			[
+				"expert_settings_",
+				"phonegap\\www\\expert_settings_edit.html"
+			],
+			[
+				"expert_setting",
+				"phonegap\\www\\expert_settings.html"
+			],
+			[
+				"phonegapexpert_step6",
+				"phonegap\\www\\expert_step6.html"
+			],
+			[
+				"expert_ste",
+				"_html\\expert_step7.html"
+			],
+			[
+				"member_settings_edit_profile",
+				"phonegap\\www\\member_settings_edit_profile.html"
+			],
+			[
+				"member_sett",
+				"phonegap\\www\\member_settings.html"
+			],
+			[
+				"member_ask_ex",
+				"phonegap\\www\\member_ask_expert_level.html"
+			],
+			[
+				"member_payment_details",
+				"phonegap\\www\\member_payment_details.html"
+			],
+			[
+				"member_ask_q",
+				"phonegap\\www\\member_ask_question.html"
+			],
+			[
+				"member_paym",
+				"phonegap\\www\\member_payment_details.html"
+			],
+			[
+				"member_ask_expert_level",
+				"phonegap\\www\\member_ask_expert_level.html"
+			],
+			[
+				"expert_step5",
+				"phonegap\\www\\expert_step5.html"
+			],
+			[
+				"expert_payment",
+				"phonegap\\www\\expert_payment.html"
+			],
+			[
+				"expert_step",
+				"_html\\expert_step5.html"
+			],
+			[
+				"expert_settin",
+				"phonegap\\www\\expert_settings.html"
+			],
+			[
+				"bill",
+				"phonegap\\www\\billing.html"
+			],
+			[
+				"billing.html",
+				"phonegap\\www\\billing.html"
+			],
+			[
+				"expert_pay",
+				"phonegap\\www\\expert_payment.html"
+			],
+			[
+				"member_settings_edit_pro",
+				"phonegap\\www\\member_settings_edit_profile.html"
+			],
+			[
+				"member_set",
+				"phonegap\\www\\member_settings_edit.html"
+			],
+			[
+				"member_step2",
+				"phonegap\\www\\member_step2.html"
+			],
+			[
+				"member_step1",
+				"phonegap\\www\\member_step1.html"
+			],
+			[
+				"member_crea",
+				"phonegap\\www\\member_creation.html"
+			],
+			[
+				"billing",
+				"phonegap\\www\\billing.html"
+			],
+			[
+				"member_stp",
+				"phonegap\\www\\member_step2.html"
+			],
+			[
+				"member_creation.html",
+				"phonegap\\www\\member_creation.html"
 			]
 		],
 		"width": 0.0
@@ -1447,23 +1722,43 @@
 		[
 			[
 				"",
-				"D:\\xampp\\htdocs\\ment-commercial\\ment-commercial.sublime-project"
+				"/var/www/html/ci/ci.sublime-project"
 			],
 			[
-				"ROMA",
-				"D:\\xampp\\htdocs\\romania-holland-treaty\\romania-holland-treaty.sublime-project"
+				"ment",
+				"D:\\xampp\\htdocs\\ment-tv-backend\\ment.sublime-project"
 			],
 			[
-				"vic",
-				"D:\\xampp\\htdocs\\victoria\\victoria.sublime-project"
+				"app wip",
+				"D:\\xampp\\htdocs\\app2022-wip\\app2022-wip.sublime-project"
 			],
 			[
-				"kah",
-				"D:\\xampp\\htdocs\\kahla\\kahla.sublime-project"
+				"kay",
+				"D:\\xampp\\htdocs\\kayus\\kayus.sublime-project"
+			],
+			[
+				"app",
+				"D:\\xampp\\htdocs\\app2022-wip\\app2022-wip.sublime-project"
+			],
+			[
+				"bb",
+				"D:\\xampp\\htdocs\\bboosstt\\bboosstt.sublime-project"
+			],
+			[
+				"blax",
+				"D:\\xampp\\htdocs\\blaxy\\blaxy.sublime-project"
 			],
 			[
 				"bla",
 				"D:\\xampp\\htdocs\\blaxy\\blaxy.sublime-project"
+			],
+			[
+				"b",
+				"D:\\xampp\\htdocs\\blaxy\\blaxy.sublime-project"
+			],
+			[
+				"kayus",
+				"D:\\xampp\\htdocs\\kayus\\kayus.sublime-project"
 			],
 			[
 				"mo",
@@ -1486,64 +1781,14 @@
 	{
 		"xdebug":
 		{
-			"hide_conflict": false,
-			"restore_index":
-			{
-				"62":
-				{
-					"group": 0,
-					"index": 0
-				},
-				"63":
-				{
-					"group": 0,
-					"index": 1
-				},
-				"64":
-				{
-					"group": 0,
-					"index": 2
-				},
-				"65":
-				{
-					"group": 0,
-					"index": 3
-				},
-				"66":
-				{
-					"group": 0,
-					"index": 4
-				}
-			},
-			"restore_layout":
-			{
-				"cells":
-				[
-					[
-						0,
-						0,
-						1,
-						1
-					]
-				],
-				"cols":
-				[
-					0.0,
-					1.0
-				],
-				"rows":
-				[
-					0.0,
-					1.0
-				]
-			}
+			"hide_conflict": false
 		}
 	},
 	"show_minimap": true,
 	"show_open_files": false,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 268.0,
+	"side_bar_width": 232.0,
 	"status_bar_visible": true,
 	"template_settings":
 	{
