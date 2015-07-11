@@ -1,0 +1,3 @@
+book:
+    path: /
+    default: { _controller: "BookkeeperManagerBundle:Book:index" }

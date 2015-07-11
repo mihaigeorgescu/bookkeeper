@@ -447,10 +447,54 @@
 	"build_varint": "",
 	"command_palette":
 	{
-		"height": 127.0,
-		"last_filter": "git push ",
+		"height": 392.0,
+		"last_filter": "git stat",
 		"selected_items":
 		[
+			[
+				"git stat",
+				"Git: Quick Status"
+			],
+			[
+				"git push",
+				"Git: Push Current Branch"
+			],
+			[
+				"git comm",
+				"Git: Quick Commit"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"commit",
+				"Git: Commit"
+			],
+			[
+				"git ",
+				"Git: Version"
+			],
+			[
+				"git status",
+				"Git: Status"
+			],
+			[
+				"git pus",
+				"Git: Push Current Branch"
+			],
+			[
+				"git pu",
+				"Git: Pull Current Branch"
+			],
+			[
+				"git add",
+				"Git: Quick Add"
+			],
 			[
 				"git push ",
 				"Git: Push Current Branch"
@@ -466,26 +510,6 @@
 			[
 				"status",
 				"Git: Status"
-			],
-			[
-				"git stat",
-				"Git: Quick Status"
-			],
-			[
-				"git status",
-				"Git: Status"
-			],
-			[
-				"git push",
-				"Git: Push Current Branch"
-			],
-			[
-				"git add",
-				"Git: Quick Add"
-			],
-			[
-				"git comm",
-				"Git: Commit"
 			],
 			[
 				"gist",
@@ -508,10 +532,6 @@
 				"Package Control: Remove Package"
 			],
 			[
-				"rem",
-				"Package Control: Remove Package"
-			],
-			[
 				"insta",
 				"Package Control: Install Package"
 			],
@@ -526,10 +546,6 @@
 			[
 				"xdeb",
 				"Xdebug: Stop Debugging"
-			],
-			[
-				"install",
-				"Package Control: Install Package"
 			],
 			[
 				"disa",
@@ -668,7 +684,7 @@
 				"Package Control: Install Package"
 			]
 		],
-		"width": 528.0
+		"width": 870.0
 	},
 	"console":
 	{
@@ -701,10 +717,25 @@
 	"expanded_folders":
 	[
 		"/D/xampp/htdocs/bookkeeper",
-		"/D/xampp/htdocs/bookkeeper/src"
+		"/D/xampp/htdocs/bookkeeper/src",
+		"/D/xampp/htdocs/bookkeeper/src/Bookkeeper",
+		"/D/xampp/htdocs/bookkeeper/src/Bookkeeper/HelloWorldBundle",
+		"/D/xampp/htdocs/bookkeeper/src/Bookkeeper/HelloWorldBundle/Resources",
+		"/D/xampp/htdocs/bookkeeper/src/Bookkeeper/HelloWorldBundle/Resources/config",
+		"/D/xampp/htdocs/bookkeeper/src/Bookkeeper/ManagerBundle",
+		"/D/xampp/htdocs/bookkeeper/src/Bookkeeper/ManagerBundle/Resources",
+		"/D/xampp/htdocs/bookkeeper/src/Bookkeeper/ManagerBundle/Resources/config"
 	],
 	"file_history":
 	[
+		"/D/xampp/htdocs/bookkeeper/src/Bookkeeper/HelloWorldBundle/Resources/config/routing.yml",
+		"/D/xampp/htdocs/bookkeeper/src/Bookkeeper/ManagerBundle/Resources/config/routing.yml",
+		"/D/xampp/htdocs/bookkeeper/src/Bookkeeper/HelloWorldBundle/Resources/views/Default/index.html.twig",
+		"/D/xampp/php/php.ini",
+		"/D/xampp/htdocs/bookkeeper/src/Bookkeeper/HelloWorldBundle/Controller/DefaultController.php",
+		"/D/xampp/htdocs/bookkeeper/src/Bookkeeper/HelloWorldBundle/BookkeeperHelloWorldBundle.php",
+		"/D/xampp/htdocs/bookkeeper/app/config/routing.yml",
+		"/D/xampp/htdocs/bookkeeper/app/AppKernel.php",
 		"/D/OS X Yosemite/VMware Unlocker/VMware Unlocker - Mac OS X Guest/VMware 7.1.x Series/README.txt",
 		"/D/xampp/htdocs/emag_hero/style.css",
 		"/D/xampp/htdocs/emag_hero/constants.php",
@@ -738,6 +769,10 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"extensions",
+			"extension=",
+			"extens",
+			"apc",
 			"[",
 			"];",
 			"],",
@@ -861,11 +896,7 @@
 			"animateTheCaptions",
 			"timer",
 			"nextsh",
-			"animat",
-			"console.log",
-			"stoptimer",
-			"settime",
-			"cannot inter"
+			"animat"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -970,6 +1001,14 @@
 	{
 		"height": 80.0
 	},
+	"output.git-commit":
+	{
+		"height": 100.0
+	},
+	"output.git-pull":
+	{
+		"height": 100.0
+	},
 	"output.git-push":
 	{
 		"height": 100.0
@@ -991,6 +1030,14 @@
 		"last_filter": "",
 		"selected_items":
 		[
+			[
+				"routing",
+				"app\\config\\routing.yml"
+			],
+			[
+				"appker",
+				"app\\AppKernel.php"
+			],
 			[
 				"indexhtml",
 				"app\\Resources\\views\\default\\index.html.twig"
@@ -1494,14 +1541,6 @@
 			[
 				"blaxy_he",
 				"_application\\helpers\\blaxy_helper.php"
-			],
-			[
-				"header",
-				"_application\\views\\frontend\\html\\layout\\main\\header.php"
-			],
-			[
-				"ste",
-				"_html\\step-4.html"
 			]
 		],
 		"width": 0.0
