@@ -21,9 +21,11 @@ class BookController extends Controller {
 
 	}
 
+
 	public function createAction(Request $request) {
 
 	}
+
 
 	public function editAction($id) {
 
@@ -34,7 +36,9 @@ class BookController extends Controller {
 
 	}
 
+
 	public function deleteAction(Request $request, $id) {
 
 	}
+
 }
