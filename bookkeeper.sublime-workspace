@@ -766,13 +766,7 @@
 	},
 	"expanded_folders":
 	[
-		"/var/www/bookkeeper",
-		"/var/www/bookkeeper/src/Bookkeeper",
-		"/var/www/bookkeeper/src/Bookkeeper/ManagerBundle",
-		"/var/www/bookkeeper/src/Bookkeeper/ManagerBundle/Controller",
-		"/var/www/bookkeeper/src/Bookkeeper/ManagerBundle/Resources",
-		"/var/www/bookkeeper/src/Bookkeeper/ManagerBundle/Resources/config",
-		"/var/www/bookkeeper/src/Bookkeeper/ManagerBundle/Resources/views"
+		"/var/www/bookkeeper"
 	],
 	"file_history":
 	[
@@ -907,7 +901,7 @@
 	],
 	"find":
 	{
-		"height": 35.0
+		"height": 23.0
 	},
 	"find_in_files":
 	{

@@ -4,7 +4,7 @@ book:
 
 book_show:
     path: /show/{id}
-    defaults: { _controller: BookkeeperManagerBundle:Book:show" }
+    defaults: { _controller: "BookkeeperManagerBundle:Book:show" }
 
 book_new:
     path: /new
