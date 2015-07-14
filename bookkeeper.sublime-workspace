@@ -717,17 +717,19 @@
 	"expanded_folders":
 	[
 		"/D/xampp/htdocs/bookkeeper",
-		"/D/xampp/htdocs/bookkeeper/src",
-		"/D/xampp/htdocs/bookkeeper/src/Bookkeeper",
-		"/D/xampp/htdocs/bookkeeper/src/Bookkeeper/HelloWorldBundle",
-		"/D/xampp/htdocs/bookkeeper/src/Bookkeeper/HelloWorldBundle/Resources",
-		"/D/xampp/htdocs/bookkeeper/src/Bookkeeper/HelloWorldBundle/Resources/config",
-		"/D/xampp/htdocs/bookkeeper/src/Bookkeeper/ManagerBundle",
-		"/D/xampp/htdocs/bookkeeper/src/Bookkeeper/ManagerBundle/Resources",
-		"/D/xampp/htdocs/bookkeeper/src/Bookkeeper/ManagerBundle/Resources/config"
+		"/D/xampp/htdocs/bookkeeper/vendor",
+		"/D/xampp/htdocs/bookkeeper/vendor/symfony",
+		"/D/xampp/htdocs/bookkeeper/vendor/twig",
+		"/D/xampp/htdocs/bookkeeper/vendor/twig/twig",
+		"/D/xampp/htdocs/bookkeeper/vendor/twig/twig/ext/twig"
 	],
 	"file_history":
 	[
+		"/D/xampp/htdocs/bookkeeper/vendor/twig/twig/ext/twig/config.m4",
+		"/D/Movies/Morituri.1965.DVDRip/film.srt",
+		"/D/xampp/htdocs/bookkeeper/.gitignore",
+		"/C/Users/User1/AppData/Local/Temp/7zO38E6.tmp/Morituri - English.srt",
+		"/D/Movies/Morituri.1965.DVDRip/Morituri.1965.DVDRip.eng.srt",
 		"/D/xampp/htdocs/bookkeeper/src/Bookkeeper/HelloWorldBundle/Resources/config/routing.yml",
 		"/D/xampp/htdocs/bookkeeper/src/Bookkeeper/ManagerBundle/Resources/config/routing.yml",
 		"/D/xampp/htdocs/bookkeeper/src/Bookkeeper/HelloWorldBundle/Resources/views/Default/index.html.twig",
@@ -744,8 +746,7 @@
 		"/D/xampp/htdocs/emag_hero/classes.php",
 		"/C/Users/User1/AppData/Roaming/Sublime Text 3/Packages/SublimeGit/SublimeGit.sublime-settings",
 		"/D/xampp/htdocs/bookkeeper/src/AppBundle/Controller/DefaultController.php",
-		"/C/Users/User1/AppData/Roaming/Sublime Text 3/Packages/Git/Git.sublime-settings",
-		"/D/xampp/htdocs/bookkeeper/.gitignore"
+		"/C/Users/User1/AppData/Roaming/Sublime Text 3/Packages/Git/Git.sublime-settings"
 	],
 	"find":
 	{
@@ -769,6 +770,7 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"[",
 			"extensions",
 			"extension=",
 			"extens",
@@ -895,8 +897,7 @@
 			"calcCaptionResponsive",
 			"animateTheCaptions",
 			"timer",
-			"nextsh",
-			"animat"
+			"nextsh"
 		],
 		"highlight": true,
 		"in_selection": false,
