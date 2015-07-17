@@ -29,8 +29,7 @@ class AppKernel extends Kernel {
         return $bundles;
     }
 
-    public function registerContainerConfiguration(LoaderInterface $loader)
-    {
+    public function registerContainerConfiguration(LoaderInterface $loader) {
         $loader->load($this->getRootDir().'/config/config_'.$this->getEnvironment().'.yml');
     }
 }
