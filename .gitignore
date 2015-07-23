@@ -12,3 +12,5 @@
 *.sublime-project
 *.sublime-workspace
 bookkeeper.sublime-workspace
+
+tests/_output/*

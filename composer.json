@@ -19,7 +19,11 @@
         "symfony/monolog-bundle": "~2.4",
         "sensio/distribution-bundle": "~4.0",
         "sensio/framework-extra-bundle": "~3.0,>=3.0.2",
-        "incenteev/composer-parameter-handler": "~2.0"
+        "incenteev/composer-parameter-handler": "~2.0",
+        "codeception/codeception": "^2.1",
+        "codeception/phpbuiltinserver": "^1.2",
+        "codeception/specify": "^0.4.1",
+        "codeception/verify": "^0.2.7"
     },
     "require-dev": {
         "sensio/generator-bundle": "~2.3"
