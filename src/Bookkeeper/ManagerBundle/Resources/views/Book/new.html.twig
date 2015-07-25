@@ -3,4 +3,8 @@
 {% block body -%}
 	<h1>Create New Book</h1>
 	{{ form(form, { attr: { novalidate : 'novalidate' } }) }}
+
+	<ul>
+	    <li><a href="{{ path('book') }}" title="">Book Manager</a></li>
+	</ul>
 {% endblock %}
