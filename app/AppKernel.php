@@ -17,6 +17,7 @@ class AppKernel extends Kernel {
             new AppBundle\AppBundle(),
             new Bookkeeper\HelloWorldBundle\BookkeeperHelloWorldBundle(),
             new Bookkeeper\ManagerBundle\BookkeeperManagerBundle(),
+            new Custom\CMSBundle\CustomCMSBundle(),
         ];
 
         if (in_array($this->getEnvironment(), array('dev', 'test'))) {
