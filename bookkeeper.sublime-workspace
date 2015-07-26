@@ -4,6 +4,18 @@
 		"selected_items":
 		[
 			[
+				"dele",
+				"deleteForm"
+			],
+			[
+				"genera",
+				"generateUrl"
+			],
+			[
+				"bookkee",
+				"BookkeeperManagerBundle"
+			],
+			[
 				"Book",
 				"BookType"
 			],
@@ -502,18 +514,6 @@
 			[
 				"on",
 				"on  (function)"
-			],
-			[
-				"memb",
-				"member_id"
-			],
-			[
-				"strin",
-				"stringify"
-			],
-			[
-				"backgro",
-				"background-color:   (property)"
 			]
 		]
 	},
@@ -523,23 +523,15 @@
 			"file": "src/Bookkeeper/ManagerBundle/Controller/BookController.php",
 			"settings":
 			{
-				"buffer_size": 3223,
+				"buffer_size": 4117,
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "src/Bookkeeper/ManagerBundle/Resources/views/Book/edit.html.twig",
+			"file": "src/Bookkeeper/ManagerBundle/Resources/views/Book/show.html.twig",
 			"settings":
 			{
-				"buffer_size": 188,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "src/Bookkeeper/ManagerBundle/Resources/views/Book/new.html.twig",
-			"settings":
-			{
-				"buffer_size": 235,
+				"buffer_size": 388,
 				"line_ending": "Unix"
 			}
 		}
@@ -829,11 +821,12 @@
 	],
 	"file_history":
 	[
+		"/var/www/bookkeeper/src/Bookkeeper/ManagerBundle/Resources/views/Book/new.html.twig",
+		"/var/www/bookkeeper/src/Bookkeeper/ManagerBundle/Resources/views/Book/edit.html.twig",
 		"/var/www/bookkeeper/src/Bookkeeper/ManagerBundle/Resources/views/Book/show.html.twig",
 		"/var/www/bookkeeper/src/Bookkeeper/ManagerBundle/Resources/views/Book/index.html.twig",
 		"/var/www/bookkeeper/src/Bookkeeper/ManagerBundle/Form/BookType.php",
 		"/var/www/bookkeeper/app/Resources/views/base.html.twig",
-		"/var/www/bookkeeper/src/Bookkeeper/ManagerBundle/Resources/views/Book/new.html.twig",
 		"/home/mihai/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
 		"/var/www/bookkeeper/vendor/symfony/symfony/src/Symfony/Component/CssSelector/Node/NodeInterface.php",
 		"/var/www/bookkeeper/vendor/symfony/symfony/src/Symfony/Component/Config/Definition/Processor.php",
@@ -854,7 +847,6 @@
 		"/var/www/bookkeeper/src/Bookkeeper/ManagerBundle/BookkeeperManagerBundle.php",
 		"/var/www/bookkeeper/.gitignore",
 		"/var/www/bookkeeper/src/Bookkeeper/ManagerBundle/Resources/config/routing.yml",
-		"/var/www/bookkeeper/src/Bookkeeper/ManagerBundle/Resources/views/Book/edit.html.twig",
 		"/home/mihai/.config/sublime-text-3/Packages/Default/Preferences.sublime-settings",
 		"/var/www/bookkeeper/app/config/routing.yml",
 		"/media/mihai/Data/Books/web programming/Jeffrey Winesett - Web Application Development with Yii and PHP, 2nd Edition - 2012/Code/chapter02/helloworld/index.php",
@@ -1233,7 +1225,7 @@
 	"groups":
 	[
 		{
-			"selected": 0,
+			"selected": 1,
 			"sheets":
 			[
 				{
@@ -1242,15 +1234,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 3223,
+						"buffer_size": 4117,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								2746,
-								2746
+								4027,
+								4027
 							]
 						],
 						"settings":
@@ -1258,11 +1250,21 @@
 							"BracketHighlighterBusy": false,
 							"bh_regions":
 							[
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close",
-								"bh_round_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
 								"bh_angle",
 								"bh_angle_center",
 								"bh_angle_open",
@@ -1273,72 +1275,62 @@
 								"bh_curly_open",
 								"bh_curly_close",
 								"bh_curly_content",
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_default_content",
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_square_content",
 								"bh_c_define",
 								"bh_c_define_center",
 								"bh_c_define_open",
 								"bh_c_define_close",
 								"bh_c_define_content",
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_single_quote_content",
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_unmatched_content",
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_double_quote_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
 								"bh_tag",
 								"bh_tag_center",
 								"bh_tag_open",
 								"bh_tag_close",
 								"bh_tag_content",
-								"bh_regex",
-								"bh_regex_center",
-								"bh_regex_open",
-								"bh_regex_close",
-								"bh_regex_content"
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content"
 							],
 							"syntax": "Packages/PHP/PHP.tmLanguage",
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 903.0,
+						"translation.y": 1458.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 0,
+					"stack_index": 1,
 					"type": "text"
 				},
 				{
 					"buffer": 1,
-					"file": "src/Bookkeeper/ManagerBundle/Resources/views/Book/edit.html.twig",
+					"file": "src/Bookkeeper/ManagerBundle/Resources/views/Book/show.html.twig",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 188,
+						"buffer_size": 388,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								91,
-								91
+								388,
+								388
 							]
 						],
 						"settings":
@@ -1346,11 +1338,21 @@
 							"BracketHighlighterBusy": false,
 							"bh_regions":
 							[
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close",
-								"bh_round_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
 								"bh_angle",
 								"bh_angle_center",
 								"bh_angle_open",
@@ -1361,141 +1363,45 @@
 								"bh_curly_open",
 								"bh_curly_close",
 								"bh_curly_content",
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_default_content",
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_square_content",
 								"bh_c_define",
 								"bh_c_define_center",
 								"bh_c_define_open",
 								"bh_c_define_close",
 								"bh_c_define_content",
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_single_quote_content",
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_unmatched_content",
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_double_quote_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
 								"bh_tag",
 								"bh_tag_center",
 								"bh_tag_open",
 								"bh_tag_close",
 								"bh_tag_content",
-								"bh_regex",
-								"bh_regex_center",
-								"bh_regex_open",
-								"bh_regex_close",
-								"bh_regex_content"
-							],
-							"syntax": "Packages/PHP-Twig/Syntaxes/HTML (Twig).tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 2,
-					"type": "text"
-				},
-				{
-					"buffer": 2,
-					"file": "src/Bookkeeper/ManagerBundle/Resources/views/Book/new.html.twig",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 235,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								219,
-								219
-							]
-						],
-						"settings":
-						{
-							"BracketHighlighterBusy": false,
-							"bh_regions":
-							[
 								"bh_round",
 								"bh_round_center",
 								"bh_round_open",
 								"bh_round_close",
 								"bh_round_content",
-								"bh_angle",
-								"bh_angle_center",
-								"bh_angle_open",
-								"bh_angle_close",
-								"bh_angle_content",
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_curly_content",
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_default_content",
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_square_content",
-								"bh_c_define",
-								"bh_c_define_center",
-								"bh_c_define_open",
-								"bh_c_define_close",
-								"bh_c_define_content",
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_single_quote_content",
 								"bh_unmatched",
 								"bh_unmatched_center",
 								"bh_unmatched_open",
 								"bh_unmatched_close",
 								"bh_unmatched_content",
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_double_quote_content",
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_tag_content",
-								"bh_regex",
-								"bh_regex_center",
-								"bh_regex_open",
-								"bh_regex_close",
-								"bh_regex_content"
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content"
 							],
-							"syntax": "Packages/PHP-Twig/Syntaxes/HTML (Twig).tmLanguage"
+							"syntax": "Packages/PHP-Twig/Syntaxes/HTML (Twig).tmLanguage",
+							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 1,
+					"stack_index": 0,
 					"type": "text"
 				}
 			]
@@ -2146,7 +2052,7 @@
 	"show_open_files": false,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 222.0,
+	"side_bar_width": 252.0,
 	"status_bar_visible": true,
 	"template_settings":
 	{
