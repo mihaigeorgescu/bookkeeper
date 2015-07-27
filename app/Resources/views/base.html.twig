@@ -1,18 +1,35 @@
 <!DOCTYPE html>
 <html>
-    <head>
-        <meta charset="UTF-8" />
-        <title>{% block title %}Welcome!{% endblock %}</title>
-        {% block stylesheets %}{% endblock %}
-        <link rel="icon" type="image/x-icon" href="{{ asset('favicon.ico') }}" />
-    </head>
-    <body>
-        {% for flashMessage in app.session.flashbag.get('msg') %}
-            <div class="flmsg-container">{{ flashMessage }}</div>
-        {% endfor %}
+	<head>
+		<meta charset="UTF-8" />
+		<title>{% block title %}Symfony2 Training{% endblock %}</title>
 
-        {% block body %}{% endblock %}
+		{% block stylesheets -%}
+			<link rel="stylesheet" type="text/css" href="{{ asset('styles/main.css') }}" />
+		{% endblock %}
+		<link rel="icon" type="image/x-icon" href="{{ asset('favicon.ico') }}" />
+	</head>
+	<body>
+		<div id="container">
+			<header id="header">
+				<p id="logo">Custom CMS</p>
+				<nav id="nav">
+					<a href="{{ path('custom_cms_homepage') }}">Home</a>
+				</nav>
+			</header>
+			<div id="flashmessages-container">
+				{% for flashMessage in app.session.flashbag.get('msg') %}
+					<div class="flmsg-container">{{ flashMessage }}</div>
+				{% endfor %}
+			</div>
 
-        {% block javascripts %}{% endblock %}
-    </body>
+			{% block body %}
+
+			{% endblock %}
+
+			{% block javascripts %}
+
+			{% endblock %}
+		</div>
+	</body>
 </html>
