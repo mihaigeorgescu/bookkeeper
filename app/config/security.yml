@@ -1,13 +1,28 @@
 security:
-
+    encoders:
+        Symfony\Component\Security\Core\User\User: plaintext
+        Custom\CMSBundle\Entity\User: bcrypt
+    role_hierarchy:
+        ROLE_ADMIN: [ROLE_USER]
     providers:
-        in_memory:
-            memory: ~
-
-    firewalls:
-        dev:
-            pattern: ^/(_(profiler|wdt|error)|css|images|js)/
-            security: false
-
-        main:
-            anonymous: ~
+        chain_provider:
+            chain:
+                providers: [in_memory, user_db]
+            in_memory:
+                memory:
+                    users:
+                        admin: { password: admin_pass, roles: ROLE_ADMIN }
+            user_db:
+                entity: { class: CustomCMSBundle:User, property: username }
+            firewalls:
+                main:
+                    pattern: /.*
+                    form_login:
+                        login_path: /login
+                        check_path: /login_check
+                        default_target_path: /\
+                    logout:
+                        ath: /logout
+                        target: /
+                    security: true
+                    anonymous: true
