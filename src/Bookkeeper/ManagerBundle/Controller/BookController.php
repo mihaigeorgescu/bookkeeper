@@ -10,12 +10,28 @@ use Bookkeeper\ManagerBundle\Form\BookType;
 class BookController extends Controller {
 
 	public function indexAction() {
-		return $this->render('BookkeeperManagerBundle:Book:index.html.twig');
+		$em = $this->getDoctrine()->getManager();
+		$books = $em->getRepository('BookkeeperManagerBundle:Book')->findAll();
+
+		return $this->render('BookkeeperManagerBundle:Book:index.html.twig', ['books' => $books]);
 	}
 
 
 	public function showAction($id) {
-		return $this->render('BookkeeperManagerBundle:Book:show.html.twig');
+		$em = $this->getDoctrine()->getManager();
+		$book = $em->getRepository('BookkeeperManagerBundle:Book')->find($id);
+
+		$deleteForm = $this
+			->createFormBuilder()
+			->setAction($this->generateUrl('book_delete', ['id' => $id]))
+			->setMethod('DELETE')
+			->add('submit', 'submit', ['label' => 'Delete Book'])
+			->getForm();
+
+		return $this->render('BookkeeperManagerBundle:Book:show.html.twig', [
+			'book'        => $book,
+			'delete_form' => $deleteForm->createView()
+		]);
 	}
 
 
@@ -28,9 +44,7 @@ class BookController extends Controller {
 		]);
 		$form->add('submit', 'submit', ['label' => 'CreateBook']);
 
-		return $this->render('BookkeeperManagerBundle:Book:new.html.twig', [
-			'form' => $form->createView()
-		]);
+		return $this->render('BookkeeperManagerBundle:Book:new.html.twig', ['form' => $form->createView()]);
 	}
 
 
@@ -50,7 +64,7 @@ class BookController extends Controller {
 
 			$this->get('session')->getFlashBag()->add('msg', 'Your book has been created!');
 
-			return $this->redirect($this->generateUrl('book_new'));
+			return $this->redirect($this->generateUrl('book_show', ['id' => $book->getid()]));
 		} else {
 
 			$this->get('session')->getFlashBag()->add('msg', 'Something went wrong!');
@@ -60,16 +74,60 @@ class BookController extends Controller {
 
 
 	public function editAction($id) {
-		return $this->render('BookkeeperManagerBundle:Book:edit.html.twig');
+		$em = $this->getDoctrine()->getManager();
+		$book = $em->getRepository('BookkeeperManagerBundle:Book')->find($id);
+
+		$form = $this->createForm(new BookType(), $book, [
+			'action' => $this->generateUrl('book_update', ['id' => $book->getId()]),
+			'method' => 'PUT'
+		]);
+		$form->add('submit', 'submit', ['label' => 'Update Book']);
+		return $this->render('BookkeeperManagerBundle:Book:edit.html.twig', ['form' => $form->createView()]);
 	}
 
 
 	public function updateAction(Request $request, $id) {
+		$em = $this->getDoctrine()->getManager();
+		$book = $em->getRepository('BookkeeperManagerBundle:Book')->find($id);
 
+		$form = $this->createForm(new BookType(), $book, [
+			'action' => $this->generateUrl('book_update', ['id' => $book->getId()]),
+			'method' => 'PUT'
+		]);
+		$form->add('submit', 'submit', ['label' => 'Update Book']);
+
+		$form->handleRequest($request);
+		if ($form->isValid()) {
+			$em->flush();
+			$this->get('session')->getFlashBag()->add('msg', 'Your book has been updated!');
+			return $this->redirect($this->generateUrl('book_show', ['id' => $id]));
+
+		} else {
+			return $this->render('BookkeeperManagerBundle:Book:edit.html.twig', ['form' => $form->createView()]);
+		}
 	}
 
 
 	public function deleteAction(Request $request, $id) {
+		$deleteForm = $this
+			->createFormBuilder()
+			->setAction($this->generateUrl('book_delete', ['id' => $id]))
+			->setMethod('DELETE')
+			->add('submit', 'submit', ['label' => 'Delete Book'])
+			->getForm();
 
+		$deleteForm->handleRequest($request);
+
+		if ($deleteForm->isValid()) {
+			$em = $this->getDoctrine()->getManager();
+			$book = $em->getRepository('BookkeeperManagerBundle:Book')->findOneBy(['id' => $id]);
+
+			$em->remove($book);
+			$em->flush();
+			$this->get('session')->getFlashBag()->add('msg', 'Your book has been deleted!');
+			return $this->redirect($this->generateUrl('book'));
+		} else {
+			/*??*/
+		}
 	}
 }
