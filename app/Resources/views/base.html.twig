@@ -15,6 +15,19 @@
 				<p id="logo">Custom CMS</p>
 				<nav id="nav">
 					<a href="{{ path('custom_cms_homepage') }}">Home</a>
+
+					{% if is_granted('ROLE_ADMIN') %}
+						 | <a href="{{ path('cms_user') }}" title="">Users</a>
+						 | <a href="{{ path('cms_category') }}" title="">Categories</a>
+						 | <a href="{{ path('cms_page') }}" title="">Pages</a>
+					{% elseif is_granted('ROLE_USER') %}
+						 | <a href="{{ path('cms_page') }}" title="">Pages</a>
+					{% endif %}
+
+					{% if is_granted('ROLE_ADMIN') or is_granted('ROLE_USER') %}
+						 | <a href="{{ path('logout') }}" title="">Logout</a>
+					{% endif %}
+
 				</nav>
 			</header>
 			<div id="flashmessages-container">
