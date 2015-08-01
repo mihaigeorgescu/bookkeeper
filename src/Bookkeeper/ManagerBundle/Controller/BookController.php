@@ -21,8 +21,7 @@ class BookController extends Controller {
 		$em = $this->getDoctrine()->getManager();
 		$book = $em->getRepository('BookkeeperManagerBundle:Book')->find($id);
 
-		$deleteForm = $this
-			->createFormBuilder()
+		$deleteForm = $this->createFormBuilder()
 			->setAction($this->generateUrl('book_delete', ['id' => $id]))
 			->setMethod('DELETE')
 			->add('submit', 'submit', ['label' => 'Delete Book'])
